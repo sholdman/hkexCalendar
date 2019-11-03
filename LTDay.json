@@ -1,0 +1,3308 @@
+[
+{
+"descTc": "澳元兌人民幣(香港)期貨",
+"descEn": "AUD/CNHFutures",
+"descSc": "澳元兑人民币(香港)期货",
+"lastTradingDate": "20190114"
+},
+{
+"descTc": "一個月港元利率期貨",
+"descEn": "One-MonthHIBOR Futures",
+"descSc": "一个月港元利率期货",
+"lastTradingDate": "20190114"
+},
+{
+"descTc": "三個月港元利率期貨",
+"descEn": "Three-MonthHIBOR Futures ",
+"descSc": "三个月港元利率期货",
+"lastTradingDate": "20190114"
+},
+{
+"descTc": "美元及人民幣(香港)倫敦鋁/鋅/銅/鎳/錫/鉛期貨小型合約",
+"descEn": "USD& CNH London Aluminium/Zinc/Copper/Nickel/Tin/LeadMini Futures",
+"descSc": "美元及人民币(香港)伦敦铝/锌/铜/镍/锡/铅期货小型合约",
+"lastTradingDate": "20190114"
+},
+{
+"descTc": "美元兌人民幣(香港)期貨及期權",
+"descEn": "USD/CNHFuturesand Options",
+"descSc": "美元兑人民币(香港)期货及期权",
+"lastTradingDate": "20190114"
+},
+{
+"descTc": "人民幣(香港)兌美元期貨",
+"descEn": "CNH/USDFutures",
+"descSc": "人民币(香港)兑美元期货",
+"lastTradingDate": "20190114"
+},
+{
+"descTc": "歐元兌人民幣(香港)期貨",
+"descEn": "EUR/CNHFutures",
+"descSc": "欧元兑人民币(香港)期货",
+"lastTradingDate": "20190114"
+},
+{
+"descTc": "日圓兌人民幣(香港)期貨",
+"descEn": "JPY/CNHFutures",
+"descSc": "日圆兑人民币(香港)期货",
+"lastTradingDate": "20190114"
+},
+{
+"descTc": "美元及人民幣(香港)黃金期貨合約",
+"descEn": "USD& CNH Gold Futures",
+"descSc": "美元及人民币(香港)黄金期货合约",
+"lastTradingDate": "20190121"
+},
+{
+"descTc": "恒指波幅指數期貨",
+"descEn": "HSIVolatility Index Futures",
+"descSc": "恒指波幅指數期货",
+"lastTradingDate": "20190128"
+},
+{
+"descTc": "小型恒生中國企業指數期貨及期權",
+"descEn": "Mini-HangSeng China Enterprises Index Futures and Options",
+"descSc": "小型恒生中国企业指数期货及期权",
+"lastTradingDate": "20190130"
+},
+{
+"descTc": "恒生中國企業指數股息累計指數期貨",
+"descEn": "HangSeng China Enterprises Index Total Return Index Futures",
+"descSc": "恒生中国企业指数股息累计指数期货",
+"lastTradingDate": "20190130"
+},
+{
+"descTc": "恒生指數期貨及期權(包括自訂條款指數期權)",
+"descEn": "HangSeng Index Futures and Options (Including Flexible Index Options)",
+"descSc": "恒生指数期货及期权(包括自订条款指数期权)",
+"lastTradingDate": "20190130"
+},
+{
+"descTc": "恒生中國企業指數期貨及期權(包括自訂條款指數期權)",
+"descEn": "HangSeng China Enterprises Index Futures and Options (Including Flexible Index Options)",
+"descSc": "恒生中国企业指数期货及期权(包括自订条款指数期权)",
+"lastTradingDate": "20190130"
+},
+{
+"descTc": "中華交易服務中國120 指數期貨",
+"descEn": "CESChina 120 Index Futures",
+"descSc": "中华交易服务中国120 指数期货",
+"lastTradingDate": "20190130"
+},
+{
+"descTc": "股票期貨及期權",
+"descEn": "StockFutures and Options",
+"descSc": "股票期货及期权",
+"lastTradingDate": "20190130"
+},
+{
+"descTc": "恒生指數股息累計指數期貨",
+"descEn": "HangSeng Index Total Return Index Futures ",
+"descSc": "恒生指数股息累计指数期货",
+"lastTradingDate": "20190130"
+},
+{
+"descTc": "行業指數期貨",
+"descEn": "SectorIndex Futures",
+"descSc": "行业指数期货",
+"lastTradingDate": "20190130"
+},
+{
+"descTc": "小型恒生指數期貨及期權",
+"descEn": "Mini-HangSeng Index Futures and Options",
+"descSc": "小型恒生指数期货及期权",
+"lastTradingDate": "20190130"
+},
+{
+"descTc": "鐵礦石期貨",
+"descEn": "IronOreFutures",
+"descSc": "铁矿石期货",
+"lastTradingDate": "20190131"
+},
+{
+"descTc": " IBOVESPA期貨",
+"descEn": "-IBOVESPA Futures ",
+"descSc": "-IBOVESPA期货",
+"lastTradingDate": "20190213"
+},
+{
+"descTc": "美元及人民幣(香港)黃金期貨合約",
+"descEn": "USD& CNH Gold Futures",
+"descSc": "美元及人民币(香港)黄金期货合约",
+"lastTradingDate": "20190218"
+},
+{
+"descTc": "美元及人民幣(香港)倫敦鋁/鋅/銅/鎳/錫/鉛期貨小型合約",
+"descEn": "USD& CNH London Aluminium/Zinc/Copper/Nickel/Tin/LeadMini Futures",
+"descSc": "美元及人民币(香港)伦敦铝/锌/铜/镍/锡/铅期货小型合约",
+"lastTradingDate": "20190218"
+},
+{
+"descTc": "歐元兌人民幣(香港)期貨",
+"descEn": "EUR/CNHFutures",
+"descSc": "欧元兑人民币(香港)期货",
+"lastTradingDate": "20190218"
+},
+{
+"descTc": "日圓兌人民幣(香港)期貨",
+"descEn": "JPY/CNHFutures",
+"descSc": "日圆兑人民币(香港)期货",
+"lastTradingDate": "20190218"
+},
+{
+"descTc": "澳元兌人民幣(香港)期貨",
+"descEn": "AUD/CNHFutures",
+"descSc": "澳元兑人民币(香港)期货",
+"lastTradingDate": "20190218"
+},
+{
+"descTc": "三個月港元利率期貨",
+"descEn": "Three-MonthHIBOR Futures ",
+"descSc": "三个月港元利率期货",
+"lastTradingDate": "20190218"
+},
+{
+"descTc": "人民幣(香港)兌美元期貨",
+"descEn": "CNH/USDFutures",
+"descSc": "人民币(香港)兑美元期货",
+"lastTradingDate": "20190218"
+},
+{
+"descTc": "一個月港元利率期貨",
+"descEn": "One-MonthHIBOR Futures",
+"descSc": "一个月港元利率期货",
+"lastTradingDate": "20190218"
+},
+{
+"descTc": "美元兌人民幣(香港)期貨及期權",
+"descEn": "USD/CNHFuturesand Options",
+"descSc": "美元兑人民币(香港)期货及期权",
+"lastTradingDate": "20190218"
+},
+{
+"descTc": "恒指波幅指數期貨",
+"descEn": "HSIVolatility Index Futures",
+"descSc": "恒指波幅指數期货",
+"lastTradingDate": "20190226"
+},
+{
+"descTc": "行業指數期貨",
+"descEn": "SectorIndex Futures",
+"descSc": "行业指数期货",
+"lastTradingDate": "20190227"
+},
+{
+"descTc": "恒生指數股息累計指數期貨",
+"descEn": "HangSeng Index Total Return Index Futures ",
+"descSc": "恒生指数股息累计指数期货",
+"lastTradingDate": "20190227"
+},
+{
+"descTc": "小型恒生指數期貨及期權",
+"descEn": "Mini-HangSeng Index Futures and Options",
+"descSc": "小型恒生指数期货及期权",
+"lastTradingDate": "20190227"
+},
+{
+"descTc": "中華交易服務中國120 指數期貨",
+"descEn": "CESChina 120 Index Futures",
+"descSc": "中华交易服务中国120 指数期货",
+"lastTradingDate": "20190227"
+},
+{
+"descTc": "小型恒生中國企業指數期貨及期權",
+"descEn": "Mini-HangSeng China Enterprises Index Futures and Options",
+"descSc": "小型恒生中国企业指数期货及期权",
+"lastTradingDate": "20190227"
+},
+{
+"descTc": "股票期貨及期權",
+"descEn": "StockFutures and Options",
+"descSc": "股票期货及期权",
+"lastTradingDate": "20190227"
+},
+{
+"descTc": "恒生中國企業指數股息累計指數期貨",
+"descEn": "HangSeng China Enterprises Index Total Return Index Futures",
+"descSc": "恒生中国企业指数股息累计指数期货",
+"lastTradingDate": "20190227"
+},
+{
+"descTc": "恒生指數期貨及期權(包括自訂條款指數期權)",
+"descEn": "HangSeng Index Futures and Options (Including Flexible Index Options)",
+"descSc": "恒生指数期货及期权(包括自订条款指数期权)",
+"lastTradingDate": "20190227"
+},
+{
+"descTc": "恒生中國企業指數期貨及期權(包括自訂條款指數期權)",
+"descEn": "HangSeng China Enterprises Index Futures and Options (Including Flexible Index Options)",
+"descSc": "恒生中国企业指数期货及期权(包括自订条款指数期权)",
+"lastTradingDate": "20190227"
+},
+{
+"descTc": "鐵礦石期貨",
+"descEn": "IronOreFutures",
+"descSc": "铁矿石期货",
+"lastTradingDate": "20190228"
+},
+{
+"descTc": "MSCI亞洲除日本淨總回報指數期貨",
+"descEn": "MSCIAC Asia ex Japan Net Total Return Index Futures",
+"descSc": "MSCI亚洲除日本净总回报指数期货",
+"lastTradingDate": "20190315"
+},
+{
+"descTc": "美元兌人民幣(香港)期貨及期權",
+"descEn": "USD/CNHFuturesand Options",
+"descSc": "美元兑人民币(香港)期货及期权",
+"lastTradingDate": "20190318"
+},
+{
+"descTc": "美元及人民幣(香港)倫敦鋁/鋅/銅/鎳/錫/鉛期貨小型合約",
+"descEn": "USD& CNH London Aluminium/Zinc/Copper/Nickel/Tin/LeadMini Futures",
+"descSc": "美元及人民币(香港)伦敦铝/锌/铜/镍/锡/铅期货小型合约",
+"lastTradingDate": "20190318"
+},
+{
+"descTc": "人民幣(香港)兌美元期貨",
+"descEn": "CNH/USDFutures",
+"descSc": "人民币(香港)兑美元期货",
+"lastTradingDate": "20190318"
+},
+{
+"descTc": "歐元兌人民幣(香港)期貨",
+"descEn": "EUR/CNHFutures",
+"descSc": "欧元兑人民币(香港)期货",
+"lastTradingDate": "20190318"
+},
+{
+"descTc": "澳元兌人民幣(香港)期貨",
+"descEn": "AUD/CNHFutures",
+"descSc": "澳元兑人民币(香港)期货",
+"lastTradingDate": "20190318"
+},
+{
+"descTc": "一個月港元利率期貨",
+"descEn": "One-MonthHIBOR Futures",
+"descSc": "一个月港元利率期货",
+"lastTradingDate": "20190318"
+},
+{
+"descTc": "日圓兌人民幣(香港)期貨",
+"descEn": "JPY/CNHFutures",
+"descSc": "日圆兑人民币(香港)期货",
+"lastTradingDate": "20190318"
+},
+{
+"descTc": "美元及人民幣(香港)黃金期貨合約",
+"descEn": "USD& CNH Gold Futures",
+"descSc": "美元及人民币(香港)黄金期货合约",
+"lastTradingDate": "20190318"
+},
+{
+"descTc": "三個月港元利率期貨",
+"descEn": "Three-MonthHIBOR Futures ",
+"descSc": "三个月港元利率期货",
+"lastTradingDate": "20190318"
+},
+{
+"descTc": " FTSE/JSE Top40期貨",
+"descEn": "-FTSE/JSE Top40 Futures",
+"descSc": "-FTSE/JSE Top40期货",
+"lastTradingDate": "20190320"
+},
+{
+"descTc": " MICEX指數期貨",
+"descEn": "-MICEX Index Futures",
+"descSc": "-MICEX指数期货",
+"lastTradingDate": "20190321"
+},
+{
+"descTc": "小型恒生指數期貨及期權",
+"descEn": "Mini-HangSeng Index Futures and Options",
+"descSc": "小型恒生指数期货及期权",
+"lastTradingDate": "20190328"
+},
+{
+"descTc": "中華交易服務中國120 指數期貨",
+"descEn": "CESChina 120 Index Futures",
+"descSc": "中华交易服务中国120 指数期货",
+"lastTradingDate": "20190328"
+},
+{
+"descTc": "恒生指數期貨及期權(包括自訂條款指數期權)",
+"descEn": "HangSeng Index Futures and Options (Including Flexible Index Options)",
+"descSc": "恒生指数期货及期权(包括自订条款指数期权)",
+"lastTradingDate": "20190328"
+},
+{
+"descTc": "行業指數期貨",
+"descEn": "SectorIndex Futures",
+"descSc": "行业指数期货",
+"lastTradingDate": "20190328"
+},
+{
+"descTc": "小型恒生中國企業指數期貨及期權",
+"descEn": "Mini-HangSeng China Enterprises Index Futures and Options",
+"descSc": "小型恒生中国企业指数期货及期权",
+"lastTradingDate": "20190328"
+},
+{
+"descTc": "股票期貨及期權",
+"descEn": "StockFutures and Options",
+"descSc": "股票期货及期权",
+"lastTradingDate": "20190328"
+},
+{
+"descTc": "恒生中國企業指數期貨及期權(包括自訂條款指數期權)",
+"descEn": "HangSeng China Enterprises Index Futures and Options (Including Flexible Index Options)",
+"descSc": "恒生中国企业指数期货及期权(包括自订条款指数期权)",
+"lastTradingDate": "20190328"
+},
+{
+"descTc": "恒生指數股息累計指數期貨",
+"descEn": "HangSeng Index Total Return Index Futures ",
+"descSc": "恒生指数股息累计指数期货",
+"lastTradingDate": "20190328"
+},
+{
+"descTc": "恒生中國企業指數股息累計指數期貨",
+"descEn": "HangSeng China Enterprises Index Total Return Index Futures",
+"descSc": "恒生中国企业指数股息累计指数期货",
+"lastTradingDate": "20190328"
+},
+{
+"descTc": "鐵礦石期貨",
+"descEn": "IronOreFutures",
+"descSc": "铁矿石期货",
+"lastTradingDate": "20190329"
+},
+{
+"descTc": "恒指波幅指數期貨",
+"descEn": "HSIVolatility Index Futures",
+"descSc": "恒指波幅指數期货",
+"lastTradingDate": "20190329"
+},
+{
+"descTc": "歐元兌人民幣(香港)期貨",
+"descEn": "EUR/CNHFutures",
+"descSc": "欧元兑人民币(香港)期货",
+"lastTradingDate": "20190415"
+},
+{
+"descTc": "日圓兌人民幣(香港)期貨",
+"descEn": "JPY/CNHFutures",
+"descSc": "日圆兑人民币(香港)期货",
+"lastTradingDate": "20190415"
+},
+{
+"descTc": "三個月港元利率期貨",
+"descEn": "Three-MonthHIBOR Futures ",
+"descSc": "三个月港元利率期货",
+"lastTradingDate": "20190415"
+},
+{
+"descTc": "人民幣(香港)兌美元期貨",
+"descEn": "CNH/USDFutures",
+"descSc": "人民币(香港)兑美元期货",
+"lastTradingDate": "20190415"
+},
+{
+"descTc": "一個月港元利率期貨",
+"descEn": "One-MonthHIBOR Futures",
+"descSc": "一个月港元利率期货",
+"lastTradingDate": "20190415"
+},
+{
+"descTc": "澳元兌人民幣(香港)期貨",
+"descEn": "AUD/CNHFutures",
+"descSc": "澳元兑人民币(香港)期货",
+"lastTradingDate": "20190415"
+},
+{
+"descTc": "美元及人民幣(香港)倫敦鋁/鋅/銅/鎳/錫/鉛期貨小型合約",
+"descEn": "USD& CNH London Aluminium/Zinc/Copper/Nickel/Tin/LeadMini Futures",
+"descSc": "美元及人民币(香港)伦敦铝/锌/铜/镍/锡/铅期货小型合约",
+"lastTradingDate": "20190415"
+},
+{
+"descTc": "美元及人民幣(香港)黃金期貨合約",
+"descEn": "USD& CNH Gold Futures",
+"descSc": "美元及人民币(香港)黄金期货合约",
+"lastTradingDate": "20190415"
+},
+{
+"descTc": "美元兌人民幣(香港)期貨及期權",
+"descEn": "USD/CNHFuturesand Options",
+"descSc": "美元兑人民币(香港)期货及期权",
+"lastTradingDate": "20190415"
+},
+{
+"descTc": " IBOVESPA期貨",
+"descEn": "-IBOVESPA Futures ",
+"descSc": "-IBOVESPA期货",
+"lastTradingDate": "20190417"
+},
+{
+"descTc": "股票期貨及期權",
+"descEn": "StockFutures and Options",
+"descSc": "股票期货及期权",
+"lastTradingDate": "20190429"
+},
+{
+"descTc": "恒生中國企業指數期貨及期權(包括自訂條款指數期權)",
+"descEn": "HangSeng China Enterprises Index Futures and Options (Including Flexible Index Options)",
+"descSc": "恒生中国企业指数期货及期权(包括自订条款指数期权)",
+"lastTradingDate": "20190429"
+},
+{
+"descTc": "行業指數期貨",
+"descEn": "SectorIndex Futures",
+"descSc": "行业指数期货",
+"lastTradingDate": "20190429"
+},
+{
+"descTc": "恒生指數期貨及期權(包括自訂條款指數期權)",
+"descEn": "HangSeng Index Futures and Options (Including Flexible Index Options)",
+"descSc": "恒生指数期货及期权(包括自订条款指数期权)",
+"lastTradingDate": "20190429"
+},
+{
+"descTc": "恒生中國企業指數股息累計指數期貨",
+"descEn": "HangSeng China Enterprises Index Total Return Index Futures",
+"descSc": "恒生中国企业指数股息累计指数期货",
+"lastTradingDate": "20190429"
+},
+{
+"descTc": "小型恒生中國企業指數期貨及期權",
+"descEn": "Mini-HangSeng China Enterprises Index Futures and Options",
+"descSc": "小型恒生中国企业指数期货及期权",
+"lastTradingDate": "20190429"
+},
+{
+"descTc": "小型恒生指數期貨及期權",
+"descEn": "Mini-HangSeng Index Futures and Options",
+"descSc": "小型恒生指数期货及期权",
+"lastTradingDate": "20190429"
+},
+{
+"descTc": "恒生指數股息累計指數期貨",
+"descEn": "HangSeng Index Total Return Index Futures ",
+"descSc": "恒生指数股息累计指数期货",
+"lastTradingDate": "20190429"
+},
+{
+"descTc": "中華交易服務中國120 指數期貨",
+"descEn": "CESChina 120 Index Futures",
+"descSc": "中华交易服务中国120 指数期货",
+"lastTradingDate": "20190429"
+},
+{
+"descTc": "鐵礦石期貨",
+"descEn": "IronOreFutures",
+"descSc": "铁矿石期货",
+"lastTradingDate": "20190430"
+},
+{
+"descTc": "恒指波幅指數期貨",
+"descEn": "HSIVolatility Index Futures",
+"descSc": "恒指波幅指數期货",
+"lastTradingDate": "20190430"
+},
+{
+"descTc": "三個月港元利率期貨",
+"descEn": "Three-MonthHIBOR Futures ",
+"descSc": "三个月港元利率期货",
+"lastTradingDate": "20190510"
+},
+{
+"descTc": "美元及人民幣(香港)倫敦鋁/鋅/銅/鎳/錫/鉛期貨小型合約",
+"descEn": "USD& CNH London Aluminium/Zinc/Copper/Nickel/Tin/LeadMini Futures",
+"descSc": "美元及人民币(香港)伦敦铝/锌/铜/镍/锡/铅期货小型合约",
+"lastTradingDate": "20190510"
+},
+{
+"descTc": "一個月港元利率期貨",
+"descEn": "One-MonthHIBOR Futures",
+"descSc": "一个月港元利率期货",
+"lastTradingDate": "20190510"
+},
+{
+"descTc": "美元兌人民幣(香港)期貨及期權",
+"descEn": "USD/CNHFuturesand Options",
+"descSc": "美元兑人民币(香港)期货及期权",
+"lastTradingDate": "20190510"
+},
+{
+"descTc": "澳元兌人民幣(香港)期貨",
+"descEn": "AUD/CNHFutures",
+"descSc": "澳元兑人民币(香港)期货",
+"lastTradingDate": "20190510"
+},
+{
+"descTc": "歐元兌人民幣(香港)期貨",
+"descEn": "EUR/CNHFutures",
+"descSc": "欧元兑人民币(香港)期货",
+"lastTradingDate": "20190510"
+},
+{
+"descTc": "日圓兌人民幣(香港)期貨",
+"descEn": "JPY/CNHFutures",
+"descSc": "日圆兑人民币(香港)期货",
+"lastTradingDate": "20190510"
+},
+{
+"descTc": "人民幣(香港)兌美元期貨",
+"descEn": "CNH/USDFutures",
+"descSc": "人民币(香港)兑美元期货",
+"lastTradingDate": "20190510"
+},
+{
+"descTc": "美元及人民幣(香港)黃金期貨合約",
+"descEn": "USD& CNH Gold Futures",
+"descSc": "美元及人民币(香港)黄金期货合约",
+"lastTradingDate": "20190520"
+},
+{
+"descTc": "恒指波幅指數期貨",
+"descEn": "HSIVolatility Index Futures",
+"descSc": "恒指波幅指數期货",
+"lastTradingDate": "20190528"
+},
+{
+"descTc": "小型恒生指數期貨及期權",
+"descEn": "Mini-HangSeng Index Futures and Options",
+"descSc": "小型恒生指数期货及期权",
+"lastTradingDate": "20190530"
+},
+{
+"descTc": "恒生指數股息累計指數期貨",
+"descEn": "HangSeng Index Total Return Index Futures ",
+"descSc": "恒生指数股息累计指数期货",
+"lastTradingDate": "20190530"
+},
+{
+"descTc": "行業指數期貨",
+"descEn": "SectorIndex Futures",
+"descSc": "行业指数期货",
+"lastTradingDate": "20190530"
+},
+{
+"descTc": "股票期貨及期權",
+"descEn": "StockFutures and Options",
+"descSc": "股票期货及期权",
+"lastTradingDate": "20190530"
+},
+{
+"descTc": "小型恒生中國企業指數期貨及期權",
+"descEn": "Mini-HangSeng China Enterprises Index Futures and Options",
+"descSc": "小型恒生中国企业指数期货及期权",
+"lastTradingDate": "20190530"
+},
+{
+"descTc": "恒生中國企業指數期貨及期權(包括自訂條款指數期權)",
+"descEn": "HangSeng China Enterprises Index Futures and Options (Including Flexible Index Options)",
+"descSc": "恒生中国企业指数期货及期权(包括自订条款指数期权)",
+"lastTradingDate": "20190530"
+},
+{
+"descTc": "恒生中國企業指數股息累計指數期貨",
+"descEn": "HangSeng China Enterprises Index Total Return Index Futures",
+"descSc": "恒生中国企业指数股息累计指数期货",
+"lastTradingDate": "20190530"
+},
+{
+"descTc": "恒生指數期貨及期權(包括自訂條款指數期權)",
+"descEn": "HangSeng Index Futures and Options (Including Flexible Index Options)",
+"descSc": "恒生指数期货及期权(包括自订条款指数期权)",
+"lastTradingDate": "20190530"
+},
+{
+"descTc": "中華交易服務中國120 指數期貨",
+"descEn": "CESChina 120 Index Futures",
+"descSc": "中华交易服务中国120 指数期货",
+"lastTradingDate": "20190530"
+},
+{
+"descTc": "鐵礦石期貨",
+"descEn": "IronOreFutures",
+"descSc": "铁矿石期货",
+"lastTradingDate": "20190531"
+},
+{
+"descTc": " IBOVESPA期貨",
+"descEn": "-IBOVESPA Futures ",
+"descSc": "-IBOVESPA期货",
+"lastTradingDate": "20190612"
+},
+{
+"descTc": "美元及人民幣(香港)倫敦鋁/鋅/銅/鎳/錫/鉛期貨小型合約",
+"descEn": "USD& CNH London Aluminium/Zinc/Copper/Nickel/Tin/LeadMini Futures",
+"descSc": "美元及人民币(香港)伦敦铝/锌/铜/镍/锡/铅期货小型合约",
+"lastTradingDate": "20190617"
+},
+{
+"descTc": "日圓兌人民幣(香港)期貨",
+"descEn": "JPY/CNHFutures",
+"descSc": "日圆兑人民币(香港)期货",
+"lastTradingDate": "20190617"
+},
+{
+"descTc": "人民幣(香港)兌美元期貨",
+"descEn": "CNH/USDFutures",
+"descSc": "人民币(香港)兑美元期货",
+"lastTradingDate": "20190617"
+},
+{
+"descTc": "美元兌人民幣(香港)期貨及期權",
+"descEn": "USD/CNHFuturesand Options",
+"descSc": "美元兑人民币(香港)期货及期权",
+"lastTradingDate": "20190617"
+},
+{
+"descTc": "三個月港元利率期貨",
+"descEn": "Three-MonthHIBOR Futures ",
+"descSc": "三个月港元利率期货",
+"lastTradingDate": "20190617"
+},
+{
+"descTc": "美元及人民幣(香港)黃金期貨合約",
+"descEn": "USD& CNH Gold Futures",
+"descSc": "美元及人民币(香港)黄金期货合约",
+"lastTradingDate": "20190617"
+},
+{
+"descTc": "澳元兌人民幣(香港)期貨",
+"descEn": "AUD/CNHFutures",
+"descSc": "澳元兑人民币(香港)期货",
+"lastTradingDate": "20190617"
+},
+{
+"descTc": "一個月港元利率期貨",
+"descEn": "One-MonthHIBOR Futures",
+"descSc": "一个月港元利率期货",
+"lastTradingDate": "20190617"
+},
+{
+"descTc": "歐元兌人民幣(香港)期貨",
+"descEn": "EUR/CNHFutures",
+"descSc": "欧元兑人民币(香港)期货",
+"lastTradingDate": "20190617"
+},
+{
+"descTc": " MICEX指數期貨",
+"descEn": "-MICEX Index Futures",
+"descSc": "-MICEX指数期货",
+"lastTradingDate": "20190620"
+},
+{
+"descTc": " FTSE/JSE Top40期貨",
+"descEn": "-FTSE/JSE Top40 Futures",
+"descSc": "-FTSE/JSE Top40期货",
+"lastTradingDate": "20190620"
+},
+{
+"descTc": "MSCI亞洲除日本淨總回報指數期貨",
+"descEn": "MSCIAC Asia ex Japan Net Total Return Index Futures",
+"descSc": "MSCI亚洲除日本净总回报指数期货",
+"lastTradingDate": "20190621"
+},
+{
+"descTc": "恒生指數期貨及期權(包括自訂條款指數期權)",
+"descEn": "HangSeng Index Futures and Options (Including Flexible Index Options)",
+"descSc": "恒生指数期货及期权(包括自订条款指数期权)",
+"lastTradingDate": "20190627"
+},
+{
+"descTc": "股票期貨及期權",
+"descEn": "StockFutures and Options",
+"descSc": "股票期货及期权",
+"lastTradingDate": "20190627"
+},
+{
+"descTc": "恒生中國企業指數期貨及期權(包括自訂條款指數期權)",
+"descEn": "HangSeng China Enterprises Index Futures and Options (Including Flexible Index Options)",
+"descSc": "恒生中国企业指数期货及期权(包括自订条款指数期权)",
+"lastTradingDate": "20190627"
+},
+{
+"descTc": "中華交易服務中國120 指數期貨",
+"descEn": "CESChina 120 Index Futures",
+"descSc": "中华交易服务中国120 指数期货",
+"lastTradingDate": "20190627"
+},
+{
+"descTc": "恒生中國企業指數股息累計指數期貨",
+"descEn": "HangSeng China Enterprises Index Total Return Index Futures",
+"descSc": "恒生中国企业指数股息累计指数期货",
+"lastTradingDate": "20190627"
+},
+{
+"descTc": "行業指數期貨",
+"descEn": "SectorIndex Futures",
+"descSc": "行业指数期货",
+"lastTradingDate": "20190627"
+},
+{
+"descTc": "小型恒生中國企業指數期貨及期權",
+"descEn": "Mini-HangSeng China Enterprises Index Futures and Options",
+"descSc": "小型恒生中国企业指数期货及期权",
+"lastTradingDate": "20190627"
+},
+{
+"descTc": "恒生指數股息累計指數期貨",
+"descEn": "HangSeng Index Total Return Index Futures ",
+"descSc": "恒生指数股息累计指数期货",
+"lastTradingDate": "20190627"
+},
+{
+"descTc": "小型恒生指數期貨及期權",
+"descEn": "Mini-HangSeng Index Futures and Options",
+"descSc": "小型恒生指数期货及期权",
+"lastTradingDate": "20190627"
+},
+{
+"descTc": "恒指波幅指數期貨",
+"descEn": "HSIVolatility Index Futures",
+"descSc": "恒指波幅指數期货",
+"lastTradingDate": "20190628"
+},
+{
+"descTc": "鐵礦石期貨",
+"descEn": "IronOreFutures",
+"descSc": "铁矿石期货",
+"lastTradingDate": "20190628"
+},
+{
+"descTc": "澳元兌人民幣(香港)期貨",
+"descEn": "AUD/CNHFutures",
+"descSc": "澳元兑人民币(香港)期货",
+"lastTradingDate": "20190715"
+},
+{
+"descTc": "三個月港元利率期貨",
+"descEn": "Three-MonthHIBOR Futures ",
+"descSc": "三个月港元利率期货",
+"lastTradingDate": "20190715"
+},
+{
+"descTc": "人民幣(香港)兌美元期貨",
+"descEn": "CNH/USDFutures",
+"descSc": "人民币(香港)兑美元期货",
+"lastTradingDate": "20190715"
+},
+{
+"descTc": "歐元兌人民幣(香港)期貨",
+"descEn": "EUR/CNHFutures",
+"descSc": "欧元兑人民币(香港)期货",
+"lastTradingDate": "20190715"
+},
+{
+"descTc": "一個月港元利率期貨",
+"descEn": "One-MonthHIBOR Futures",
+"descSc": "一个月港元利率期货",
+"lastTradingDate": "20190715"
+},
+{
+"descTc": "美元及人民幣(香港)黃金期貨合約",
+"descEn": "USD& CNH Gold Futures",
+"descSc": "美元及人民币(香港)黄金期货合约",
+"lastTradingDate": "20190715"
+},
+{
+"descTc": "日圓兌人民幣(香港)期貨",
+"descEn": "JPY/CNHFutures",
+"descSc": "日圆兑人民币(香港)期货",
+"lastTradingDate": "20190715"
+},
+{
+"descTc": "美元兌人民幣(香港)期貨及期權",
+"descEn": "USD/CNHFuturesand Options",
+"descSc": "美元兑人民币(香港)期货及期权",
+"lastTradingDate": "20190715"
+},
+{
+"descTc": "美元及人民幣(香港)倫敦鋁/鋅/銅/鎳/錫/鉛期貨小型合約",
+"descEn": "USD& CNH London Aluminium/Zinc/Copper/Nickel/Tin/LeadMini Futures",
+"descSc": "美元及人民币(香港)伦敦铝/锌/铜/镍/锡/铅期货小型合约",
+"lastTradingDate": "20190715"
+},
+{
+"descTc": "恒指波幅指數期貨",
+"descEn": "HSIVolatility Index Futures",
+"descSc": "恒指波幅指數期货",
+"lastTradingDate": "20190730"
+},
+{
+"descTc": "小型恒生中國企業指數期貨及期權",
+"descEn": "Mini-HangSeng China Enterprises Index Futures and Options",
+"descSc": "小型恒生中国企业指数期货及期权",
+"lastTradingDate": "20190730"
+},
+{
+"descTc": "恒生指數期貨及期權(包括自訂條款指數期權)",
+"descEn": "HangSeng Index Futures and Options (Including Flexible Index Options)",
+"descSc": "恒生指数期货及期权(包括自订条款指数期权)",
+"lastTradingDate": "20190730"
+},
+{
+"descTc": "恒生指數股息累計指數期貨",
+"descEn": "HangSeng Index Total Return Index Futures ",
+"descSc": "恒生指数股息累计指数期货",
+"lastTradingDate": "20190730"
+},
+{
+"descTc": "股票期貨及期權",
+"descEn": "StockFutures and Options",
+"descSc": "股票期货及期权",
+"lastTradingDate": "20190730"
+},
+{
+"descTc": "中華交易服務中國120 指數期貨",
+"descEn": "CESChina 120 Index Futures",
+"descSc": "中华交易服务中国120 指数期货",
+"lastTradingDate": "20190730"
+},
+{
+"descTc": "行業指數期貨",
+"descEn": "SectorIndex Futures",
+"descSc": "行业指数期货",
+"lastTradingDate": "20190730"
+},
+{
+"descTc": "小型恒生指數期貨及期權",
+"descEn": "Mini-HangSeng Index Futures and Options",
+"descSc": "小型恒生指数期货及期权",
+"lastTradingDate": "20190730"
+},
+{
+"descTc": "恒生中國企業指數期貨及期權(包括自訂條款指數期權)",
+"descEn": "HangSeng China Enterprises Index Futures and Options (Including Flexible Index Options)",
+"descSc": "恒生中国企业指数期货及期权(包括自订条款指数期权)",
+"lastTradingDate": "20190730"
+},
+{
+"descTc": "恒生中國企業指數股息累計指數期貨",
+"descEn": "HangSeng China Enterprises Index Total Return Index Futures",
+"descSc": "恒生中国企业指数股息累计指数期货",
+"lastTradingDate": "20190730"
+},
+{
+"descTc": "鐵礦石期貨",
+"descEn": "IronOreFutures",
+"descSc": "铁矿石期货",
+"lastTradingDate": "20190731"
+},
+{
+"descTc": " IBOVESPA期貨",
+"descEn": "-IBOVESPA Futures ",
+"descSc": "-IBOVESPA期货",
+"lastTradingDate": "20190814"
+},
+{
+"descTc": "日圓兌人民幣(香港)期貨",
+"descEn": "JPY/CNHFutures",
+"descSc": "日圆兑人民币(香港)期货",
+"lastTradingDate": "20190819"
+},
+{
+"descTc": "美元及人民幣(香港)倫敦鋁/鋅/銅/鎳/錫/鉛期貨小型合約",
+"descEn": "USD& CNH London Aluminium/Zinc/Copper/Nickel/Tin/LeadMini Futures",
+"descSc": "美元及人民币(香港)伦敦铝/锌/铜/镍/锡/铅期货小型合约",
+"lastTradingDate": "20190819"
+},
+{
+"descTc": "澳元兌人民幣(香港)期貨",
+"descEn": "AUD/CNHFutures",
+"descSc": "澳元兑人民币(香港)期货",
+"lastTradingDate": "20190819"
+},
+{
+"descTc": "三個月港元利率期貨",
+"descEn": "Three-MonthHIBOR Futures ",
+"descSc": "三个月港元利率期货",
+"lastTradingDate": "20190819"
+},
+{
+"descTc": "美元及人民幣(香港)黃金期貨合約",
+"descEn": "USD& CNH Gold Futures",
+"descSc": "美元及人民币(香港)黄金期货合约",
+"lastTradingDate": "20190819"
+},
+{
+"descTc": "一個月港元利率期貨",
+"descEn": "One-MonthHIBOR Futures",
+"descSc": "一个月港元利率期货",
+"lastTradingDate": "20190819"
+},
+{
+"descTc": "美元兌人民幣(香港)期貨及期權",
+"descEn": "USD/CNHFuturesand Options",
+"descSc": "美元兑人民币(香港)期货及期权",
+"lastTradingDate": "20190819"
+},
+{
+"descTc": "人民幣(香港)兌美元期貨",
+"descEn": "CNH/USDFutures",
+"descSc": "人民币(香港)兑美元期货",
+"lastTradingDate": "20190819"
+},
+{
+"descTc": "歐元兌人民幣(香港)期貨",
+"descEn": "EUR/CNHFutures",
+"descSc": "欧元兑人民币(香港)期货",
+"lastTradingDate": "20190819"
+},
+{
+"descTc": "恒指波幅指數期貨",
+"descEn": "HSIVolatility Index Futures",
+"descSc": "恒指波幅指數期货",
+"lastTradingDate": "20190828"
+},
+{
+"descTc": "恒生指數股息累計指數期貨",
+"descEn": "HangSeng Index Total Return Index Futures ",
+"descSc": "恒生指数股息累计指数期货",
+"lastTradingDate": "20190829"
+},
+{
+"descTc": "中華交易服務中國120 指數期貨",
+"descEn": "CESChina 120 Index Futures",
+"descSc": "中华交易服务中国120 指数期货",
+"lastTradingDate": "20190829"
+},
+{
+"descTc": "股票期貨及期權",
+"descEn": "StockFutures and Options",
+"descSc": "股票期货及期权",
+"lastTradingDate": "20190829"
+},
+{
+"descTc": "行業指數期貨",
+"descEn": "SectorIndex Futures",
+"descSc": "行业指数期货",
+"lastTradingDate": "20190829"
+},
+{
+"descTc": "恒生指數期貨及期權(包括自訂條款指數期權)",
+"descEn": "HangSeng Index Futures and Options (Including Flexible Index Options)",
+"descSc": "恒生指数期货及期权(包括自订条款指数期权)",
+"lastTradingDate": "20190829"
+},
+{
+"descTc": "恒生中國企業指數股息累計指數期貨",
+"descEn": "HangSeng China Enterprises Index Total Return Index Futures",
+"descSc": "恒生中国企业指数股息累计指数期货",
+"lastTradingDate": "20190829"
+},
+{
+"descTc": "小型恒生指數期貨及期權",
+"descEn": "Mini-HangSeng Index Futures and Options",
+"descSc": "小型恒生指数期货及期权",
+"lastTradingDate": "20190829"
+},
+{
+"descTc": "恒生中國企業指數期貨及期權(包括自訂條款指數期權)",
+"descEn": "HangSeng China Enterprises Index Futures and Options (Including Flexible Index Options)",
+"descSc": "恒生中国企业指数期货及期权(包括自订条款指数期权)",
+"lastTradingDate": "20190829"
+},
+{
+"descTc": "小型恒生中國企業指數期貨及期權",
+"descEn": "Mini-HangSeng China Enterprises Index Futures and Options",
+"descSc": "小型恒生中国企业指数期货及期权",
+"lastTradingDate": "20190829"
+},
+{
+"descTc": "鐵礦石期貨",
+"descEn": "IronOreFutures",
+"descSc": "铁矿石期货",
+"lastTradingDate": "20190830"
+},
+{
+"descTc": "美元及人民幣(香港)黃金期貨合約",
+"descEn": "USD& CNH Gold Futures",
+"descSc": "美元及人民币(香港)黄金期货合约",
+"lastTradingDate": "20190916"
+},
+{
+"descTc": "一個月港元利率期貨",
+"descEn": "One-MonthHIBOR Futures",
+"descSc": "一个月港元利率期货",
+"lastTradingDate": "20190916"
+},
+{
+"descTc": "澳元兌人民幣(香港)期貨",
+"descEn": "AUD/CNHFutures",
+"descSc": "澳元兑人民币(香港)期货",
+"lastTradingDate": "20190916"
+},
+{
+"descTc": "美元兌人民幣(香港)期貨及期權",
+"descEn": "USD/CNHFuturesand Options",
+"descSc": "美元兑人民币(香港)期货及期权",
+"lastTradingDate": "20190916"
+},
+{
+"descTc": "歐元兌人民幣(香港)期貨",
+"descEn": "EUR/CNHFutures",
+"descSc": "欧元兑人民币(香港)期货",
+"lastTradingDate": "20190916"
+},
+{
+"descTc": "三個月港元利率期貨",
+"descEn": "Three-MonthHIBOR Futures ",
+"descSc": "三个月港元利率期货",
+"lastTradingDate": "20190916"
+},
+{
+"descTc": "人民幣(香港)兌美元期貨",
+"descEn": "CNH/USDFutures",
+"descSc": "人民币(香港)兑美元期货",
+"lastTradingDate": "20190916"
+},
+{
+"descTc": "美元及人民幣(香港)倫敦鋁/鋅/銅/鎳/錫/鉛期貨小型合約",
+"descEn": "USD& CNH London Aluminium/Zinc/Copper/Nickel/Tin/LeadMini Futures",
+"descSc": "美元及人民币(香港)伦敦铝/锌/铜/镍/锡/铅期货小型合约",
+"lastTradingDate": "20190916"
+},
+{
+"descTc": "日圓兌人民幣(香港)期貨",
+"descEn": "JPY/CNHFutures",
+"descSc": "日圆兑人民币(香港)期货",
+"lastTradingDate": "20190916"
+},
+{
+"descTc": " MICEX指數期貨",
+"descEn": "-MICEX Index Futures",
+"descSc": "-MICEX指数期货",
+"lastTradingDate": "20190919"
+},
+{
+"descTc": " FTSE/JSE Top40期貨",
+"descEn": "-FTSE/JSE Top40 Futures",
+"descSc": "-FTSE/JSE Top40期货",
+"lastTradingDate": "20190919"
+},
+{
+"descTc": "MSCI亞洲除日本淨總回報指數期貨",
+"descEn": "MSCIAC Asia ex Japan Net Total Return Index Futures",
+"descSc": "MSCI亚洲除日本净总回报指数期货",
+"lastTradingDate": "20190920"
+},
+{
+"descTc": "恒生指數期權",
+"descEn": "WeeklyHang Seng Index Options",
+"descSc": "每周恒生指数期权",
+"lastTradingDate": "20190920"
+},
+{
+"descTc": "恒生中國企業指數期權",
+"descEn": "WeeklyHang Seng China Enterprises Index Options",
+"descSc": "每周恒生中国企业指数期权",
+"lastTradingDate": "20190920"
+},
+{
+"descTc": "恒生指數期貨及期權(包括自訂條款指數期權)",
+"descEn": "HangSeng Index Futures and Options (Including Flexible Index Options)",
+"descSc": "恒生指数期货及期权(包括自订条款指数期权)",
+"lastTradingDate": "20190927"
+},
+{
+"descTc": "恒生中國企業指數期貨及期權(包括自訂條款指數期權)",
+"descEn": "HangSeng China Enterprises Index Futures and Options (Including Flexible Index Options)",
+"descSc": "恒生中国企业指数期货及期权(包括自订条款指数期权)",
+"lastTradingDate": "20190927"
+},
+{
+"descTc": "小型恒生指數期貨及期權",
+"descEn": "Mini-HangSeng Index Futures and Options",
+"descSc": "小型恒生指数期货及期权",
+"lastTradingDate": "20190927"
+},
+{
+"descTc": "小型恒生中國企業指數期貨及期權",
+"descEn": "Mini-HangSeng China Enterprises Index Futures and Options",
+"descSc": "小型恒生中国企业指数期货及期权",
+"lastTradingDate": "20190927"
+},
+{
+"descTc": "恒生指數股息累計指數期貨",
+"descEn": "HangSeng Index Total Return Index Futures ",
+"descSc": "恒生指数股息累计指数期货",
+"lastTradingDate": "20190927"
+},
+{
+"descTc": "恒生中國企業指數股息累計指數期貨",
+"descEn": "HangSeng China Enterprises Index Total Return Index Futures",
+"descSc": "恒生中国企业指数股息累计指数期货",
+"lastTradingDate": "20190927"
+},
+{
+"descTc": "行業指數期貨",
+"descEn": "SectorIndex Futures",
+"descSc": "行业指数期货",
+"lastTradingDate": "20190927"
+},
+{
+"descTc": "股票期貨及期權",
+"descEn": "StockFutures and Options",
+"descSc": "股票期货及期权",
+"lastTradingDate": "20190927"
+},
+{
+"descTc": "中華交易服務中國120 指數期貨",
+"descEn": "CESChina 120 Index Futures",
+"descSc": "中华交易服务中国120 指数期货",
+"lastTradingDate": "20190927"
+},
+{
+"descTc": "鐵礦石期貨",
+"descEn": "IronOreFutures",
+"descSc": "铁矿石期货",
+"lastTradingDate": "20190930"
+},
+{
+"descTc": "恒指波幅指數期貨",
+"descEn": "HSIVolatility Index Futures",
+"descSc": "恒指波幅指數期货",
+"lastTradingDate": "20190930"
+},
+{
+"descTc": "恒生中國企業指數期權",
+"descEn": "WeeklyHang Seng China Enterprises Index Options",
+"descSc": "每周恒生中国企业指数期权",
+"lastTradingDate": "20191004"
+},
+{
+"descTc": "恒生指數期權",
+"descEn": "WeeklyHang Seng Index Options",
+"descSc": "每周恒生指数期权",
+"lastTradingDate": "20191004"
+},
+{
+"descTc": "恒生指數期權",
+"descEn": "WeeklyHang Seng Index Options",
+"descSc": "每周恒生指数期权",
+"lastTradingDate": "20191011"
+},
+{
+"descTc": "恒生中國企業指數期權",
+"descEn": "WeeklyHang Seng China Enterprises Index Options",
+"descSc": "每周恒生中国企业指数期权",
+"lastTradingDate": "20191011"
+},
+{
+"descTc": "美元兌人民幣(香港)期貨及期權",
+"descEn": "USD/CNHFuturesand Options",
+"descSc": "美元兑人民币(香港)期货及期权",
+"lastTradingDate": "20191014"
+},
+{
+"descTc": "人民幣(香港)兌美元期貨",
+"descEn": "CNH/USDFutures",
+"descSc": "人民币(香港)兑美元期货",
+"lastTradingDate": "20191014"
+},
+{
+"descTc": "澳元兌人民幣(香港)期貨",
+"descEn": "AUD/CNHFutures",
+"descSc": "澳元兑人民币(香港)期货",
+"lastTradingDate": "20191014"
+},
+{
+"descTc": "三個月港元利率期貨",
+"descEn": "Three-MonthHIBOR Futures ",
+"descSc": "三个月港元利率期货",
+"lastTradingDate": "20191014"
+},
+{
+"descTc": "歐元兌人民幣(香港)期貨",
+"descEn": "EUR/CNHFutures",
+"descSc": "欧元兑人民币(香港)期货",
+"lastTradingDate": "20191014"
+},
+{
+"descTc": "一個月港元利率期貨",
+"descEn": "One-MonthHIBOR Futures",
+"descSc": "一个月港元利率期货",
+"lastTradingDate": "20191014"
+},
+{
+"descTc": "美元及人民幣(香港)倫敦鋁/鋅/銅/鎳/錫/鉛期貨小型合約",
+"descEn": "USD& CNH London Aluminium/Zinc/Copper/Nickel/Tin/LeadMini Futures",
+"descSc": "美元及人民币(香港)伦敦铝/锌/铜/镍/锡/铅期货小型合约",
+"lastTradingDate": "20191014"
+},
+{
+"descTc": "日圓兌人民幣(香港)期貨",
+"descEn": "JPY/CNHFutures",
+"descSc": "日圆兑人民币(香港)期货",
+"lastTradingDate": "20191014"
+},
+{
+"descTc": " IBOVESPA期貨",
+"descEn": "-IBOVESPA Futures ",
+"descSc": "-IBOVESPA期货",
+"lastTradingDate": "20191016"
+},
+{
+"descTc": "恒生中國企業指數期權",
+"descEn": "WeeklyHang Seng China Enterprises Index Options",
+"descSc": "每周恒生中国企业指数期权",
+"lastTradingDate": "20191018"
+},
+{
+"descTc": "恒生指數期權",
+"descEn": "WeeklyHang Seng Index Options",
+"descSc": "每周恒生指数期权",
+"lastTradingDate": "20191018"
+},
+{
+"descTc": "美元及人民幣(香港)黃金期貨合約",
+"descEn": "USD& CNH Gold Futures",
+"descSc": "美元及人民币(香港)黄金期货合约",
+"lastTradingDate": "20191021"
+},
+{
+"descTc": "恒生指數期權",
+"descEn": "WeeklyHang Seng Index Options",
+"descSc": "每周恒生指数期权",
+"lastTradingDate": "20191025"
+},
+{
+"descTc": "恒生中國企業指數期權",
+"descEn": "WeeklyHang Seng China Enterprises Index Options",
+"descSc": "每周恒生中国企业指数期权",
+"lastTradingDate": "20191025"
+},
+{
+"descTc": "恒指波幅指數期貨",
+"descEn": "HSIVolatility Index Futures",
+"descSc": "恒指波幅指數期货",
+"lastTradingDate": "20191029"
+},
+{
+"descTc": "小型恒生中國企業指數期貨及期權",
+"descEn": "Mini-HangSeng China Enterprises Index Futures and Options",
+"descSc": "小型恒生中国企业指数期货及期权",
+"lastTradingDate": "20191030"
+},
+{
+"descTc": "中華交易服務中國120 指數期貨",
+"descEn": "CESChina 120 Index Futures",
+"descSc": "中华交易服务中国120 指数期货",
+"lastTradingDate": "20191030"
+},
+{
+"descTc": "恒生中國企業指數期貨及期權(包括自訂條款指數期權)",
+"descEn": "HangSeng China Enterprises Index Futures and Options (Including Flexible Index Options)",
+"descSc": "恒生中国企业指数期货及期权(包括自订条款指数期权)",
+"lastTradingDate": "20191030"
+},
+{
+"descTc": "恒生指數股息累計指數期貨",
+"descEn": "HangSeng Index Total Return Index Futures ",
+"descSc": "恒生指数股息累计指数期货",
+"lastTradingDate": "20191030"
+},
+{
+"descTc": "恒生中國企業指數股息累計指數期貨",
+"descEn": "HangSeng China Enterprises Index Total Return Index Futures",
+"descSc": "恒生中国企业指数股息累计指数期货",
+"lastTradingDate": "20191030"
+},
+{
+"descTc": "股票期貨及期權",
+"descEn": "StockFutures and Options",
+"descSc": "股票期货及期权",
+"lastTradingDate": "20191030"
+},
+{
+"descTc": "恒生指數期貨及期權(包括自訂條款指數期權)",
+"descEn": "HangSeng Index Futures and Options (Including Flexible Index Options)",
+"descSc": "恒生指数期货及期权(包括自订条款指数期权)",
+"lastTradingDate": "20191030"
+},
+{
+"descTc": "行業指數期貨",
+"descEn": "SectorIndex Futures",
+"descSc": "行业指数期货",
+"lastTradingDate": "20191030"
+},
+{
+"descTc": "小型恒生指數期貨及期權",
+"descEn": "Mini-HangSeng Index Futures and Options",
+"descSc": "小型恒生指数期货及期权",
+"lastTradingDate": "20191030"
+},
+{
+"descTc": "鐵礦石期貨",
+"descEn": "IronOreFutures",
+"descSc": "铁矿石期货",
+"lastTradingDate": "20191031"
+},
+{
+"descTc": "恒生指數期權",
+"descEn": "WeeklyHang Seng Index Options",
+"descSc": "每周恒生指数期权",
+"lastTradingDate": "20191101"
+},
+{
+"descTc": "恒生中國企業指數期權",
+"descEn": "WeeklyHang Seng China Enterprises Index Options",
+"descSc": "每周恒生中国企业指数期权",
+"lastTradingDate": "20191101"
+},
+{
+"descTc": "恒生指數期權",
+"descEn": "WeeklyHang Seng Index Options",
+"descSc": "每周恒生指数期权",
+"lastTradingDate": "20191108"
+},
+{
+"descTc": "恒生中國企業指數期權",
+"descEn": "WeeklyHang Seng China Enterprises Index Options",
+"descSc": "每周恒生中国企业指数期权",
+"lastTradingDate": "20191108"
+},
+{
+"descTc": "恒生指數期權",
+"descEn": "WeeklyHang Seng Index Options",
+"descSc": "每周恒生指数期权",
+"lastTradingDate": "20191115"
+},
+{
+"descTc": "恒生中國企業指數期權",
+"descEn": "WeeklyHang Seng China Enterprises Index Options",
+"descSc": "每周恒生中国企业指数期权",
+"lastTradingDate": "20191115"
+},
+{
+"descTc": "一個月港元利率期貨",
+"descEn": "One-MonthHIBOR Futures",
+"descSc": "一个月港元利率期货",
+"lastTradingDate": "20191118"
+},
+{
+"descTc": "美元兌人民幣(香港)期貨及期權",
+"descEn": "USD/CNHFuturesand Options",
+"descSc": "美元兑人民币(香港)期货及期权",
+"lastTradingDate": "20191118"
+},
+{
+"descTc": "美元及人民幣(香港)倫敦鋁/鋅/銅/鎳/錫/鉛期貨小型合約",
+"descEn": "USD& CNH London Aluminium/Zinc/Copper/Nickel/Tin/LeadMini Futures",
+"descSc": "美元及人民币(香港)伦敦铝/锌/铜/镍/锡/铅期货小型合约",
+"lastTradingDate": "20191118"
+},
+{
+"descTc": "澳元兌人民幣(香港)期貨",
+"descEn": "AUD/CNHFutures",
+"descSc": "澳元兑人民币(香港)期货",
+"lastTradingDate": "20191118"
+},
+{
+"descTc": "歐元兌人民幣(香港)期貨",
+"descEn": "EUR/CNHFutures",
+"descSc": "欧元兑人民币(香港)期货",
+"lastTradingDate": "20191118"
+},
+{
+"descTc": "日圓兌人民幣(香港)期貨",
+"descEn": "JPY/CNHFutures",
+"descSc": "日圆兑人民币(香港)期货",
+"lastTradingDate": "20191118"
+},
+{
+"descTc": "人民幣(香港)兌美元期貨",
+"descEn": "CNH/USDFutures",
+"descSc": "人民币(香港)兑美元期货",
+"lastTradingDate": "20191118"
+},
+{
+"descTc": "三個月港元利率期貨",
+"descEn": "Three-MonthHIBOR Futures ",
+"descSc": "三个月港元利率期货",
+"lastTradingDate": "20191118"
+},
+{
+"descTc": "美元及人民幣(香港)黃金期貨合約",
+"descEn": "USD& CNH Gold Futures",
+"descSc": "美元及人民币(香港)黄金期货合约",
+"lastTradingDate": "20191118"
+},
+{
+"descTc": "恒生中國企業指數期權",
+"descEn": "WeeklyHang Seng China Enterprises Index Options",
+"descSc": "每周恒生中国企业指数期权",
+"lastTradingDate": "20191122"
+},
+{
+"descTc": "恒生指數期權",
+"descEn": "WeeklyHang Seng Index Options",
+"descSc": "每周恒生指数期权",
+"lastTradingDate": "20191122"
+},
+{
+"descTc": "中華交易服務中國120 指數期貨",
+"descEn": "CESChina 120 Index Futures",
+"descSc": "中华交易服务中国120 指数期货",
+"lastTradingDate": "20191128"
+},
+{
+"descTc": "行業指數期貨",
+"descEn": "SectorIndex Futures",
+"descSc": "行业指数期货",
+"lastTradingDate": "20191128"
+},
+{
+"descTc": "恒生中國企業指數股息累計指數期貨",
+"descEn": "HangSeng China Enterprises Index Total Return Index Futures",
+"descSc": "恒生中国企业指数股息累计指数期货",
+"lastTradingDate": "20191128"
+},
+{
+"descTc": "恒生指數股息累計指數期貨",
+"descEn": "HangSeng Index Total Return Index Futures ",
+"descSc": "恒生指数股息累计指数期货",
+"lastTradingDate": "20191128"
+},
+{
+"descTc": "恒生指數期貨及期權(包括自訂條款指數期權)",
+"descEn": "HangSeng Index Futures and Options (Including Flexible Index Options)",
+"descSc": "恒生指数期货及期权(包括自订条款指数期权)",
+"lastTradingDate": "20191128"
+},
+{
+"descTc": "小型恒生中國企業指數期貨及期權",
+"descEn": "Mini-HangSeng China Enterprises Index Futures and Options",
+"descSc": "小型恒生中国企业指数期货及期权",
+"lastTradingDate": "20191128"
+},
+{
+"descTc": "股票期貨及期權",
+"descEn": "StockFutures and Options",
+"descSc": "股票期货及期权",
+"lastTradingDate": "20191128"
+},
+{
+"descTc": "小型恒生指數期貨及期權",
+"descEn": "Mini-HangSeng Index Futures and Options",
+"descSc": "小型恒生指数期货及期权",
+"lastTradingDate": "20191128"
+},
+{
+"descTc": "恒生中國企業指數期貨及期權(包括自訂條款指數期權)",
+"descEn": "HangSeng China Enterprises Index Futures and Options (Including Flexible Index Options)",
+"descSc": "恒生中国企业指数期货及期权(包括自订条款指数期权)",
+"lastTradingDate": "20191128"
+},
+{
+"descTc": "恒生指數期權",
+"descEn": "WeeklyHang Seng Index Options",
+"descSc": "每周恒生指数期权",
+"lastTradingDate": "20191129"
+},
+{
+"descTc": "恒指波幅指數期貨",
+"descEn": "HSIVolatility Index Futures",
+"descSc": "恒指波幅指數期货",
+"lastTradingDate": "20191129"
+},
+{
+"descTc": "恒生中國企業指數期權",
+"descEn": "WeeklyHang Seng China Enterprises Index Options",
+"descSc": "每周恒生中国企业指数期权",
+"lastTradingDate": "20191129"
+},
+{
+"descTc": "鐵礦石期貨",
+"descEn": "IronOreFutures",
+"descSc": "铁矿石期货",
+"lastTradingDate": "20191129"
+},
+{
+"descTc": "恒生中國企業指數期權",
+"descEn": "WeeklyHang Seng China Enterprises Index Options",
+"descSc": "每周恒生中国企业指数期权",
+"lastTradingDate": "20191206"
+},
+{
+"descTc": "恒生指數期權",
+"descEn": "WeeklyHang Seng Index Options",
+"descSc": "每周恒生指数期权",
+"lastTradingDate": "20191206"
+},
+{
+"descTc": "恒生中國企業指數期權",
+"descEn": "WeeklyHang Seng China Enterprises Index Options",
+"descSc": "每周恒生中国企业指数期权",
+"lastTradingDate": "20191213"
+},
+{
+"descTc": "恒生指數期權",
+"descEn": "WeeklyHang Seng Index Options",
+"descSc": "每周恒生指数期权",
+"lastTradingDate": "20191213"
+},
+{
+"descTc": "歐元兌人民幣(香港)期貨",
+"descEn": "EUR/CNHFutures",
+"descSc": "欧元兑人民币(香港)期货",
+"lastTradingDate": "20191216"
+},
+{
+"descTc": "美元兌人民幣(香港)期貨及期權",
+"descEn": "USD/CNHFuturesand Options",
+"descSc": "美元兑人民币(香港)期货及期权",
+"lastTradingDate": "20191216"
+},
+{
+"descTc": "澳元兌人民幣(香港)期貨",
+"descEn": "AUD/CNHFutures",
+"descSc": "澳元兑人民币(香港)期货",
+"lastTradingDate": "20191216"
+},
+{
+"descTc": "美元及人民幣(香港)黃金期貨合約",
+"descEn": "USD& CNH Gold Futures",
+"descSc": "美元及人民币(香港)黄金期货合约",
+"lastTradingDate": "20191216"
+},
+{
+"descTc": "三個月港元利率期貨",
+"descEn": "Three-MonthHIBOR Futures ",
+"descSc": "三个月港元利率期货",
+"lastTradingDate": "20191216"
+},
+{
+"descTc": "日圓兌人民幣(香港)期貨",
+"descEn": "JPY/CNHFutures",
+"descSc": "日圆兑人民币(香港)期货",
+"lastTradingDate": "20191216"
+},
+{
+"descTc": "美元及人民幣(香港)倫敦鋁/鋅/銅/鎳/錫/鉛期貨小型合約",
+"descEn": "USD& CNH London Aluminium/Zinc/Copper/Nickel/Tin/LeadMini Futures",
+"descSc": "美元及人民币(香港)伦敦铝/锌/铜/镍/锡/铅期货小型合约",
+"lastTradingDate": "20191216"
+},
+{
+"descTc": "一個月港元利率期貨",
+"descEn": "One-MonthHIBOR Futures",
+"descSc": "一个月港元利率期货",
+"lastTradingDate": "20191216"
+},
+{
+"descTc": "人民幣(香港)兌美元期貨",
+"descEn": "CNH/USDFutures",
+"descSc": "人民币(香港)兑美元期货",
+"lastTradingDate": "20191216"
+},
+{
+"descTc": " IBOVESPA期貨",
+"descEn": "-IBOVESPA Futures ",
+"descSc": "-IBOVESPA期货",
+"lastTradingDate": "20191218"
+},
+{
+"descTc": " MICEX指數期貨",
+"descEn": "-MICEX Index Futures",
+"descSc": "-MICEX指数期货",
+"lastTradingDate": "20191219"
+},
+{
+"descTc": " FTSE/JSE Top40期貨",
+"descEn": "-FTSE/JSE Top40 Futures",
+"descSc": "-FTSE/JSE Top40期货",
+"lastTradingDate": "20191219"
+},
+{
+"descTc": "恒生指數期權",
+"descEn": "WeeklyHang Seng Index Options",
+"descSc": "每周恒生指数期权",
+"lastTradingDate": "20191220"
+},
+{
+"descTc": "恒生中國企業指數期權",
+"descEn": "WeeklyHang Seng China Enterprises Index Options",
+"descSc": "每周恒生中国企业指数期权",
+"lastTradingDate": "20191220"
+},
+{
+"descTc": "MSCI亞洲除日本淨總回報指數期貨",
+"descEn": "MSCIAC Asia ex Japan Net Total Return Index Futures",
+"descSc": "MSCI亚洲除日本净总回报指数期货",
+"lastTradingDate": "20191220"
+},
+{
+"descTc": "恒生指數期權",
+"descEn": "WeeklyHang Seng Index Options",
+"descSc": "每周恒生指数期权",
+"lastTradingDate": "20191227"
+},
+{
+"descTc": "恒生中國企業指數期權",
+"descEn": "WeeklyHang Seng China Enterprises Index Options",
+"descSc": "每周恒生中国企业指数期权",
+"lastTradingDate": "20191227"
+},
+{
+"descTc": "恒指股息點指數期貨",
+"descEn": "HSIDividend Point Index Futures",
+"descSc": "恒指股息点指数期货",
+"lastTradingDate": "20191227"
+},
+{
+"descTc": "恒生國企股息點指數期貨",
+"descEn": "HSCEIDividend Point Index Futures",
+"descSc": "恒生国企股息点指数期货",
+"lastTradingDate": "20191227"
+},
+{
+"descTc": "恒生指數期貨及期權(包括自訂條款指數期權)",
+"descEn": "HangSeng Index Futures and Options (Including Flexible Index Options)",
+"descSc": "恒生指数期货及期权(包括自订条款指数期权)",
+"lastTradingDate": "20191230"
+},
+{
+"descTc": "恒生中國企業指數期貨及期權(包括自訂條款指數期權)",
+"descEn": "HangSeng China Enterprises Index Futures and Options (Including Flexible Index Options)",
+"descSc": "恒生中国企业指数期货及期权(包括自订条款指数期权)",
+"lastTradingDate": "20191230"
+},
+{
+"descTc": "小型恒生指數期貨及期權",
+"descEn": "Mini-HangSeng Index Futures and Options",
+"descSc": "小型恒生指数期货及期权",
+"lastTradingDate": "20191230"
+},
+{
+"descTc": "股票期貨及期權",
+"descEn": "StockFutures and Options",
+"descSc": "股票期货及期权",
+"lastTradingDate": "20191230"
+},
+{
+"descTc": "恒生中國企業指數股息累計指數期貨",
+"descEn": "HangSeng China Enterprises Index Total Return Index Futures",
+"descSc": "恒生中国企业指数股息累计指数期货",
+"lastTradingDate": "20191230"
+},
+{
+"descTc": "行業指數期貨",
+"descEn": "SectorIndex Futures",
+"descSc": "行业指数期货",
+"lastTradingDate": "20191230"
+},
+{
+"descTc": "中華交易服務中國120 指數期貨",
+"descEn": "CESChina 120 Index Futures",
+"descSc": "中华交易服务中国120 指数期货",
+"lastTradingDate": "20191230"
+},
+{
+"descTc": "恒生指數股息累計指數期貨",
+"descEn": "HangSeng Index Total Return Index Futures ",
+"descSc": "恒生指数股息累计指数期货",
+"lastTradingDate": "20191230"
+},
+{
+"descTc": "小型恒生中國企業指數期貨及期權",
+"descEn": "Mini-HangSeng China Enterprises Index Futures and Options",
+"descSc": "小型恒生中国企业指数期货及期权",
+"lastTradingDate": "20191230"
+},
+{
+"descTc": "恒指波幅指數期貨",
+"descEn": "HSIVolatility Index Futures",
+"descSc": "恒指波幅指數期货",
+"lastTradingDate": "20191231"
+},
+{
+"descTc": "鐵礦石期貨",
+"descEn": "IronOreFutures",
+"descSc": "铁矿石期货",
+"lastTradingDate": "20191231"
+},
+{
+"descTc": "三個月港元利率期貨",
+"descEn": "Three-MonthHIBOR Futures ",
+"descSc": "三个月港元利率期货",
+"lastTradingDate": "20200113"
+},
+{
+"descTc": "澳元兌人民幣(香港)期貨",
+"descEn": "AUD/CNHFutures",
+"descSc": "澳元兑人民币(香港)期货",
+"lastTradingDate": "20200113"
+},
+{
+"descTc": "日圓兌人民幣(香港)期貨",
+"descEn": "JPY/CNHFutures",
+"descSc": "日圆兑人民币(香港)期货",
+"lastTradingDate": "20200113"
+},
+{
+"descTc": "美元及人民幣(香港)倫敦鋁/鋅/銅/鎳/錫/鉛期貨小型合約",
+"descEn": "USD& CNH London Aluminium/Zinc/Copper/Nickel/Tin/LeadMini Futures",
+"descSc": "美元及人民币(香港)伦敦铝/锌/铜/镍/锡/铅期货小型合约",
+"lastTradingDate": "20200113"
+},
+{
+"descTc": "一個月港元利率期貨",
+"descEn": "One-MonthHIBOR Futures",
+"descSc": "一个月港元利率期货",
+"lastTradingDate": "20200113"
+},
+{
+"descTc": "人民幣(香港)兌美元期貨",
+"descEn": "CNH/USDFutures",
+"descSc": "人民币(香港)兑美元期货",
+"lastTradingDate": "20200113"
+},
+{
+"descTc": "歐元兌人民幣(香港)期貨",
+"descEn": "EUR/CNHFutures",
+"descSc": "欧元兑人民币(香港)期货",
+"lastTradingDate": "20200113"
+},
+{
+"descTc": "美元兌人民幣(香港)期貨及期權",
+"descEn": "USD/CNHFuturesand Options",
+"descSc": "美元兑人民币(香港)期货及期权",
+"lastTradingDate": "20200113"
+},
+{
+"descTc": "美元及人民幣(香港)黃金期貨合約",
+"descEn": "USD& CNH Gold Futures",
+"descSc": "美元及人民币(香港)黄金期货合约",
+"lastTradingDate": "20200120"
+},
+{
+"descTc": "恒指波幅指數期貨",
+"descEn": "HSIVolatility Index Futures",
+"descSc": "恒指波幅指數期货",
+"lastTradingDate": "20200124"
+},
+{
+"descTc": "恒指波幅指數期貨",
+"descEn": "HSIVolatility Index Futures",
+"descSc": "恒指波幅指數期货",
+"lastTradingDate": "20200124"
+},
+{
+"descTc": "小型恒生中國企業指數期貨及期權",
+"descEn": "Mini-HangSeng China Enterprises Index Futures and Options",
+"descSc": "小型恒生中国企业指数期货及期权",
+"lastTradingDate": "20200130"
+},
+{
+"descTc": "恒生指數期貨及期權(包括自訂條款指數期權)",
+"descEn": "HangSeng Index Futures and Options (Including Flexible Index Options)",
+"descSc": "恒生指数期货及期权(包括自订条款指数期权)",
+"lastTradingDate": "20200130"
+},
+{
+"descTc": "中華交易服務中國120 指數期貨",
+"descEn": "CESChina 120 Index Futures",
+"descSc": "中华交易服务中国120 指数期货",
+"lastTradingDate": "20200130"
+},
+{
+"descTc": "小型恒生指數期貨及期權",
+"descEn": "Mini-HangSeng Index Futures and Options",
+"descSc": "小型恒生指数期货及期权",
+"lastTradingDate": "20200130"
+},
+{
+"descTc": "恒生中國企業指數期貨及期權(包括自訂條款指數期權)",
+"descEn": "HangSeng China Enterprises Index Futures and Options (Including Flexible Index Options)",
+"descSc": "恒生中国企业指数期货及期权(包括自订条款指数期权)",
+"lastTradingDate": "20200130"
+},
+{
+"descTc": "股票期貨及期權",
+"descEn": "StockFutures and Options",
+"descSc": "股票期货及期权",
+"lastTradingDate": "20200130"
+},
+{
+"descTc": "恒生指數股息累計指數期貨",
+"descEn": "HangSeng Index Total Return Index Futures ",
+"descSc": "恒生指数股息累计指数期货",
+"lastTradingDate": "20200130"
+},
+{
+"descTc": "恒生中國企業指數股息累計指數期貨",
+"descEn": "HangSeng China Enterprises Index Total Return Index Futures",
+"descSc": "恒生中国企业指数股息累计指数期货",
+"lastTradingDate": "20200130"
+},
+{
+"descTc": "行業指數期貨",
+"descEn": "SectorIndex Futures",
+"descSc": "行业指数期货",
+"lastTradingDate": "20200130"
+},
+{
+"descTc": "鐵礦石期貨",
+"descEn": "IronOreFutures",
+"descSc": "铁矿石期货",
+"lastTradingDate": "20200131"
+},
+{
+"descTc": " IBOVESPA期貨",
+"descEn": "-IBOVESPA Futures ",
+"descSc": "-IBOVESPA期货",
+"lastTradingDate": "20200212"
+},
+{
+"descTc": "澳元兌人民幣(香港)期貨",
+"descEn": "AUD/CNHFutures",
+"descSc": "澳元兑人民币(香港)期货",
+"lastTradingDate": "20200217"
+},
+{
+"descTc": "美元及人民幣(香港)倫敦鋁/鋅/銅/鎳/錫/鉛期貨小型合約",
+"descEn": "USD& CNH London Aluminium/Zinc/Copper/Nickel/Tin/LeadMini Futures",
+"descSc": "美元及人民币(香港)伦敦铝/锌/铜/镍/锡/铅期货小型合约",
+"lastTradingDate": "20200217"
+},
+{
+"descTc": "歐元兌人民幣(香港)期貨",
+"descEn": "EUR/CNHFutures",
+"descSc": "欧元兑人民币(香港)期货",
+"lastTradingDate": "20200217"
+},
+{
+"descTc": "日圓兌人民幣(香港)期貨",
+"descEn": "JPY/CNHFutures",
+"descSc": "日圆兑人民币(香港)期货",
+"lastTradingDate": "20200217"
+},
+{
+"descTc": "一個月港元利率期貨",
+"descEn": "One-MonthHIBOR Futures",
+"descSc": "一个月港元利率期货",
+"lastTradingDate": "20200217"
+},
+{
+"descTc": "美元兌人民幣(香港)期貨及期權",
+"descEn": "USD/CNHFuturesand Options",
+"descSc": "美元兑人民币(香港)期货及期权",
+"lastTradingDate": "20200217"
+},
+{
+"descTc": "三個月港元利率期貨",
+"descEn": "Three-MonthHIBOR Futures ",
+"descSc": "三个月港元利率期货",
+"lastTradingDate": "20200217"
+},
+{
+"descTc": "人民幣(香港)兌美元期貨",
+"descEn": "CNH/USDFutures",
+"descSc": "人民币(香港)兑美元期货",
+"lastTradingDate": "20200217"
+},
+{
+"descTc": "美元及人民幣(香港)黃金期貨合約",
+"descEn": "USD& CNH Gold Futures",
+"descSc": "美元及人民币(香港)黄金期货合约",
+"lastTradingDate": "20200217"
+},
+{
+"descTc": "小型恒生指數期貨及期權",
+"descEn": "Mini-HangSeng Index Futures and Options",
+"descSc": "小型恒生指数期货及期权",
+"lastTradingDate": "20200227"
+},
+{
+"descTc": "恒生指數股息累計指數期貨",
+"descEn": "HangSeng Index Total Return Index Futures ",
+"descSc": "恒生指数股息累计指数期货",
+"lastTradingDate": "20200227"
+},
+{
+"descTc": "恒生中國企業指數股息累計指數期貨",
+"descEn": "HangSeng China Enterprises Index Total Return Index Futures",
+"descSc": "恒生中国企业指数股息累计指数期货",
+"lastTradingDate": "20200227"
+},
+{
+"descTc": "恒生中國企業指數期貨及期權(包括自訂條款指數期權)",
+"descEn": "HangSeng China Enterprises Index Futures and Options (Including Flexible Index Options)",
+"descSc": "恒生中国企业指数期货及期权(包括自订条款指数期权)",
+"lastTradingDate": "20200227"
+},
+{
+"descTc": "中華交易服務中國120 指數期貨",
+"descEn": "CESChina 120 Index Futures",
+"descSc": "中华交易服务中国120 指数期货",
+"lastTradingDate": "20200227"
+},
+{
+"descTc": "恒生指數期貨及期權(包括自訂條款指數期權)",
+"descEn": "HangSeng Index Futures and Options (Including Flexible Index Options)",
+"descSc": "恒生指数期货及期权(包括自订条款指数期权)",
+"lastTradingDate": "20200227"
+},
+{
+"descTc": "小型恒生中國企業指數期貨及期權",
+"descEn": "Mini-HangSeng China Enterprises Index Futures and Options",
+"descSc": "小型恒生中国企业指数期货及期权",
+"lastTradingDate": "20200227"
+},
+{
+"descTc": "行業指數期貨",
+"descEn": "SectorIndex Futures",
+"descSc": "行业指数期货",
+"lastTradingDate": "20200227"
+},
+{
+"descTc": "股票期貨及期權",
+"descEn": "StockFutures and Options",
+"descSc": "股票期货及期权",
+"lastTradingDate": "20200227"
+},
+{
+"descTc": "恒指波幅指數期貨",
+"descEn": "HSIVolatility Index Futures",
+"descSc": "恒指波幅指數期货",
+"lastTradingDate": "20200228"
+},
+{
+"descTc": "鐵礦石期貨",
+"descEn": "IronOreFutures",
+"descSc": "铁矿石期货",
+"lastTradingDate": "20200228"
+},
+{
+"descTc": "美元及人民幣(香港)黃金期貨合約",
+"descEn": "USD& CNH Gold Futures",
+"descSc": "美元及人民币(香港)黄金期货合约",
+"lastTradingDate": "20200316"
+},
+{
+"descTc": "歐元兌人民幣(香港)期貨",
+"descEn": "EUR/CNHFutures",
+"descSc": "欧元兑人民币(香港)期货",
+"lastTradingDate": "20200316"
+},
+{
+"descTc": "日圓兌人民幣(香港)期貨",
+"descEn": "JPY/CNHFutures",
+"descSc": "日圆兑人民币(香港)期货",
+"lastTradingDate": "20200316"
+},
+{
+"descTc": "澳元兌人民幣(香港)期貨",
+"descEn": "AUD/CNHFutures",
+"descSc": "澳元兑人民币(香港)期货",
+"lastTradingDate": "20200316"
+},
+{
+"descTc": "美元兌人民幣(香港)期貨及期權",
+"descEn": "USD/CNHFuturesand Options",
+"descSc": "美元兑人民币(香港)期货及期权",
+"lastTradingDate": "20200316"
+},
+{
+"descTc": "一個月港元利率期貨",
+"descEn": "One-MonthHIBOR Futures",
+"descSc": "一个月港元利率期货",
+"lastTradingDate": "20200316"
+},
+{
+"descTc": "三個月港元利率期貨",
+"descEn": "Three-MonthHIBOR Futures ",
+"descSc": "三个月港元利率期货",
+"lastTradingDate": "20200316"
+},
+{
+"descTc": "人民幣(香港)兌美元期貨",
+"descEn": "CNH/USDFutures",
+"descSc": "人民币(香港)兑美元期货",
+"lastTradingDate": "20200316"
+},
+{
+"descTc": "美元及人民幣(香港)倫敦鋁/鋅/銅/鎳/錫/鉛期貨小型合約",
+"descEn": "USD& CNH London Aluminium/Zinc/Copper/Nickel/Tin/LeadMini Futures",
+"descSc": "美元及人民币(香港)伦敦铝/锌/铜/镍/锡/铅期货小型合约",
+"lastTradingDate": "20200316"
+},
+{
+"descTc": " MICEX指數期貨",
+"descEn": "-MICEX Index Futures",
+"descSc": "-MICEX指数期货",
+"lastTradingDate": "20200319"
+},
+{
+"descTc": " FTSE/JSE Top40期貨",
+"descEn": "-FTSE/JSE Top40 Futures",
+"descSc": "-FTSE/JSE Top40期货",
+"lastTradingDate": "20200319"
+},
+{
+"descTc": "MSCI亞洲除日本淨總回報指數期貨",
+"descEn": "MSCIAC Asia ex Japan Net Total Return Index Futures",
+"descSc": "MSCI亚洲除日本净总回报指数期货",
+"lastTradingDate": "20200320"
+},
+{
+"descTc": "恒指波幅指數期貨",
+"descEn": "HSIVolatility Index Futures",
+"descSc": "恒指波幅指數期货",
+"lastTradingDate": "20200327"
+},
+{
+"descTc": "恒生中國企業指數期貨及期權(包括自訂條款指數期權)",
+"descEn": "HangSeng China Enterprises Index Futures and Options (Including Flexible Index Options)",
+"descSc": "恒生中国企业指数期货及期权(包括自订条款指数期权)",
+"lastTradingDate": "20200330"
+},
+{
+"descTc": "行業指數期貨",
+"descEn": "SectorIndex Futures",
+"descSc": "行业指数期货",
+"lastTradingDate": "20200330"
+},
+{
+"descTc": "中華交易服務中國120 指數期貨",
+"descEn": "CESChina 120 Index Futures",
+"descSc": "中华交易服务中国120 指数期货",
+"lastTradingDate": "20200330"
+},
+{
+"descTc": "恒生中國企業指數股息累計指數期貨",
+"descEn": "HangSeng China Enterprises Index Total Return Index Futures",
+"descSc": "恒生中国企业指数股息累计指数期货",
+"lastTradingDate": "20200330"
+},
+{
+"descTc": "小型恒生中國企業指數期貨及期權",
+"descEn": "Mini-HangSeng China Enterprises Index Futures and Options",
+"descSc": "小型恒生中国企业指数期货及期权",
+"lastTradingDate": "20200330"
+},
+{
+"descTc": "恒生指數期貨及期權(包括自訂條款指數期權)",
+"descEn": "HangSeng Index Futures and Options (Including Flexible Index Options)",
+"descSc": "恒生指数期货及期权(包括自订条款指数期权)",
+"lastTradingDate": "20200330"
+},
+{
+"descTc": "股票期貨及期權",
+"descEn": "StockFutures and Options",
+"descSc": "股票期货及期权",
+"lastTradingDate": "20200330"
+},
+{
+"descTc": "小型恒生指數期貨及期權",
+"descEn": "Mini-HangSeng Index Futures and Options",
+"descSc": "小型恒生指数期货及期权",
+"lastTradingDate": "20200330"
+},
+{
+"descTc": "恒生指數股息累計指數期貨",
+"descEn": "HangSeng Index Total Return Index Futures ",
+"descSc": "恒生指数股息累计指数期货",
+"lastTradingDate": "20200330"
+},
+{
+"descTc": "鐵礦石期貨",
+"descEn": "IronOreFutures",
+"descSc": "铁矿石期货",
+"lastTradingDate": "20200331"
+},
+{
+"descTc": "澳元兌人民幣(香港)期貨",
+"descEn": "AUD/CNHFutures",
+"descSc": "澳元兑人民币(香港)期货",
+"lastTradingDate": "20200409"
+},
+{
+"descTc": "人民幣(香港)兌美元期貨",
+"descEn": "CNH/USDFutures",
+"descSc": "人民币(香港)兑美元期货",
+"lastTradingDate": "20200409"
+},
+{
+"descTc": "一個月港元利率期貨",
+"descEn": "One-MonthHIBOR Futures",
+"descSc": "一个月港元利率期货",
+"lastTradingDate": "20200409"
+},
+{
+"descTc": "美元兌人民幣(香港)期貨及期權",
+"descEn": "USD/CNHFuturesand Options",
+"descSc": "美元兑人民币(香港)期货及期权",
+"lastTradingDate": "20200409"
+},
+{
+"descTc": "三個月港元利率期貨",
+"descEn": "Three-MonthHIBOR Futures ",
+"descSc": "三个月港元利率期货",
+"lastTradingDate": "20200409"
+},
+{
+"descTc": "日圓兌人民幣(香港)期貨",
+"descEn": "JPY/CNHFutures",
+"descSc": "日圆兑人民币(香港)期货",
+"lastTradingDate": "20200409"
+},
+{
+"descTc": "美元及人民幣(香港)倫敦鋁/鋅/銅/鎳/錫/鉛期貨小型合約",
+"descEn": "USD& CNH London Aluminium/Zinc/Copper/Nickel/Tin/LeadMini Futures",
+"descSc": "美元及人民币(香港)伦敦铝/锌/铜/镍/锡/铅期货小型合约",
+"lastTradingDate": "20200409"
+},
+{
+"descTc": "歐元兌人民幣(香港)期貨",
+"descEn": "EUR/CNHFutures",
+"descSc": "欧元兑人民币(香港)期货",
+"lastTradingDate": "20200409"
+},
+{
+"descTc": " IBOVESPA期貨",
+"descEn": "-IBOVESPA Futures ",
+"descSc": "-IBOVESPA期货",
+"lastTradingDate": "20200415"
+},
+{
+"descTc": "美元及人民幣(香港)黃金期貨合約",
+"descEn": "USD& CNH Gold Futures",
+"descSc": "美元及人民币(香港)黄金期货合约",
+"lastTradingDate": "20200420"
+},
+{
+"descTc": "小型恒生指數期貨及期權",
+"descEn": "Mini-HangSeng Index Futures and Options",
+"descSc": "小型恒生指数期货及期权",
+"lastTradingDate": "20200428"
+},
+{
+"descTc": "恒指波幅指數期貨",
+"descEn": "HSIVolatility Index Futures",
+"descSc": "恒指波幅指數期货",
+"lastTradingDate": "20200428"
+},
+{
+"descTc": "中華交易服務中國120 指數期貨",
+"descEn": "CESChina 120 Index Futures",
+"descSc": "中华交易服务中国120 指数期货",
+"lastTradingDate": "20200428"
+},
+{
+"descTc": "恒生指數股息累計指數期貨",
+"descEn": "HangSeng Index Total Return Index Futures ",
+"descSc": "恒生指数股息累计指数期货",
+"lastTradingDate": "20200428"
+},
+{
+"descTc": "行業指數期貨",
+"descEn": "SectorIndex Futures",
+"descSc": "行业指数期货",
+"lastTradingDate": "20200428"
+},
+{
+"descTc": "股票期貨及期權",
+"descEn": "StockFutures and Options",
+"descSc": "股票期货及期权",
+"lastTradingDate": "20200428"
+},
+{
+"descTc": "恒生指數期貨及期權(包括自訂條款指數期權)",
+"descEn": "HangSeng Index Futures and Options (Including Flexible Index Options)",
+"descSc": "恒生指数期货及期权(包括自订条款指数期权)",
+"lastTradingDate": "20200428"
+},
+{
+"descTc": "恒生中國企業指數股息累計指數期貨",
+"descEn": "HangSeng China Enterprises Index Total Return Index Futures",
+"descSc": "恒生中国企业指数股息累计指数期货",
+"lastTradingDate": "20200428"
+},
+{
+"descTc": "恒生中國企業指數期貨及期權(包括自訂條款指數期權)",
+"descEn": "HangSeng China Enterprises Index Futures and Options (Including Flexible Index Options)",
+"descSc": "恒生中国企业指数期货及期权(包括自订条款指数期权)",
+"lastTradingDate": "20200428"
+},
+{
+"descTc": "小型恒生中國企業指數期貨及期權",
+"descEn": "Mini-HangSeng China Enterprises Index Futures and Options",
+"descSc": "小型恒生中国企业指数期货及期权",
+"lastTradingDate": "20200428"
+},
+{
+"descTc": "鐵礦石期貨",
+"descEn": "IronOreFutures",
+"descSc": "铁矿石期货",
+"lastTradingDate": "20200429"
+},
+{
+"descTc": "美元及人民幣(香港)倫敦鋁/鋅/銅/鎳/錫/鉛期貨小型合約",
+"descEn": "USD& CNH London Aluminium/Zinc/Copper/Nickel/Tin/LeadMini Futures",
+"descSc": "美元及人民币(香港)伦敦铝/锌/铜/镍/锡/铅期货小型合约",
+"lastTradingDate": "20200518"
+},
+{
+"descTc": "日圓兌人民幣(香港)期貨",
+"descEn": "JPY/CNHFutures",
+"descSc": "日圆兑人民币(香港)期货",
+"lastTradingDate": "20200518"
+},
+{
+"descTc": "澳元兌人民幣(香港)期貨",
+"descEn": "AUD/CNHFutures",
+"descSc": "澳元兑人民币(香港)期货",
+"lastTradingDate": "20200518"
+},
+{
+"descTc": "人民幣(香港)兌美元期貨",
+"descEn": "CNH/USDFutures",
+"descSc": "人民币(香港)兑美元期货",
+"lastTradingDate": "20200518"
+},
+{
+"descTc": "一個月港元利率期貨",
+"descEn": "One-MonthHIBOR Futures",
+"descSc": "一个月港元利率期货",
+"lastTradingDate": "20200518"
+},
+{
+"descTc": "美元及人民幣(香港)黃金期貨合約",
+"descEn": "USD& CNH Gold Futures",
+"descSc": "美元及人民币(香港)黄金期货合约",
+"lastTradingDate": "20200518"
+},
+{
+"descTc": "歐元兌人民幣(香港)期貨",
+"descEn": "EUR/CNHFutures",
+"descSc": "欧元兑人民币(香港)期货",
+"lastTradingDate": "20200518"
+},
+{
+"descTc": "美元兌人民幣(香港)期貨及期權",
+"descEn": "USD/CNHFuturesand Options",
+"descSc": "美元兑人民币(香港)期货及期权",
+"lastTradingDate": "20200518"
+},
+{
+"descTc": "三個月港元利率期貨",
+"descEn": "Three-MonthHIBOR Futures ",
+"descSc": "三个月港元利率期货",
+"lastTradingDate": "20200518"
+},
+{
+"descTc": "恒生指數期權",
+"descEn": "WeeklyHang Seng Index Options",
+"descSc": "每周恒生指数期权",
+"lastTradingDate": "Invalid date"
+},
+{
+"descTc": "行業指數期貨",
+"descEn": "SectorIndex Futures",
+"descSc": "行业指数期货",
+"lastTradingDate": "20200528"
+},
+{
+"descTc": "股票期貨及期權",
+"descEn": "StockFutures and Options",
+"descSc": "股票期货及期权",
+"lastTradingDate": "20200528"
+},
+{
+"descTc": "小型恒生中國企業指數期貨及期權",
+"descEn": "Mini-HangSeng China Enterprises Index Futures and Options",
+"descSc": "小型恒生中国企业指数期货及期权",
+"lastTradingDate": "20200528"
+},
+{
+"descTc": "恒生中國企業指數期貨及期權(包括自訂條款指數期權)",
+"descEn": "HangSeng China Enterprises Index Futures and Options (Including Flexible Index Options)",
+"descSc": "恒生中国企业指数期货及期权(包括自订条款指数期权)",
+"lastTradingDate": "20200528"
+},
+{
+"descTc": "恒生中國企業指數期權",
+"descEn": "WeeklyHang Seng China Enterprises Index Options",
+"descSc": "每周恒生中国企业指数期权",
+"lastTradingDate": "Invalid date"
+},
+{
+"descTc": "小型恒生指數期貨及期權",
+"descEn": "Mini-HangSeng Index Futures and Options",
+"descSc": "小型恒生指数期货及期权",
+"lastTradingDate": "20200528"
+},
+{
+"descTc": "恒生指數期貨及期權(包括自訂條款指數期權)",
+"descEn": "HangSeng Index Futures and Options (Including Flexible Index Options)",
+"descSc": "恒生指数期货及期权(包括自订条款指数期权)",
+"lastTradingDate": "20200528"
+},
+{
+"descTc": "恒生中國企業指數股息累計指數期貨",
+"descEn": "HangSeng China Enterprises Index Total Return Index Futures",
+"descSc": "恒生中国企业指数股息累计指数期货",
+"lastTradingDate": "20200528"
+},
+{
+"descTc": "恒指股息點指數期貨",
+"descEn": "HSIDividend Point Index Futures",
+"descSc": "恒指股息点指数期货",
+"lastTradingDate": "Invalid date"
+},
+{
+"descTc": "恒生指數股息累計指數期貨",
+"descEn": "HangSeng Index Total Return Index Futures ",
+"descSc": "恒生指数股息累计指数期货",
+"lastTradingDate": "20200528"
+},
+{
+"descTc": "恒生國企股息點指數期貨",
+"descEn": "HSCEIDividend Point Index Futures",
+"descSc": "恒生国企股息点指数期货",
+"lastTradingDate": "Invalid date"
+},
+{
+"descTc": "中華交易服務中國120 指數期貨",
+"descEn": "CESChina 120 Index Futures",
+"descSc": "中华交易服务中国120 指数期货",
+"lastTradingDate": "20200528"
+},
+{
+"descTc": "鐵礦石期貨",
+"descEn": "IronOreFutures",
+"descSc": "铁矿石期货",
+"lastTradingDate": "20200529"
+},
+{
+"descTc": "恒指波幅指數期貨",
+"descEn": "HSIVolatility Index Futures",
+"descSc": "恒指波幅指數期货",
+"lastTradingDate": "20200529"
+},
+{
+"descTc": "日圓兌人民幣(香港)期貨",
+"descEn": "JPY/CNHFutures",
+"descSc": "日圆兑人民币(香港)期货",
+"lastTradingDate": "20200615"
+},
+{
+"descTc": "一個月港元利率期貨",
+"descEn": "One-MonthHIBOR Futures",
+"descSc": "一个月港元利率期货",
+"lastTradingDate": "20200615"
+},
+{
+"descTc": "美元及人民幣(香港)黃金期貨合約",
+"descEn": "USD& CNH Gold Futures",
+"descSc": "美元及人民币(香港)黄金期货合约",
+"lastTradingDate": "20200615"
+},
+{
+"descTc": "人民幣(香港)兌美元期貨",
+"descEn": "CNH/USDFutures",
+"descSc": "人民币(香港)兑美元期货",
+"lastTradingDate": "20200615"
+},
+{
+"descTc": "美元兌人民幣(香港)期貨及期權",
+"descEn": "USD/CNHFuturesand Options",
+"descSc": "美元兑人民币(香港)期货及期权",
+"lastTradingDate": "20200615"
+},
+{
+"descTc": "歐元兌人民幣(香港)期貨",
+"descEn": "EUR/CNHFutures",
+"descSc": "欧元兑人民币(香港)期货",
+"lastTradingDate": "20200615"
+},
+{
+"descTc": "澳元兌人民幣(香港)期貨",
+"descEn": "AUD/CNHFutures",
+"descSc": "澳元兑人民币(香港)期货",
+"lastTradingDate": "20200615"
+},
+{
+"descTc": "三個月港元利率期貨",
+"descEn": "Three-MonthHIBOR Futures ",
+"descSc": "三个月港元利率期货",
+"lastTradingDate": "20200615"
+},
+{
+"descTc": "美元及人民幣(香港)倫敦鋁/鋅/銅/鎳/錫/鉛期貨小型合約",
+"descEn": "USD& CNH London Aluminium/Zinc/Copper/Nickel/Tin/LeadMini Futures",
+"descSc": "美元及人民币(香港)伦敦铝/锌/铜/镍/锡/铅期货小型合约",
+"lastTradingDate": "20200615"
+},
+{
+"descTc": " IBOVESPA期貨",
+"descEn": "-IBOVESPA Futures ",
+"descSc": "-IBOVESPA期货",
+"lastTradingDate": "20200617"
+},
+{
+"descTc": " FTSE/JSE Top40期貨",
+"descEn": "-FTSE/JSE Top40 Futures",
+"descSc": "-FTSE/JSE Top40期货",
+"lastTradingDate": "20200618"
+},
+{
+"descTc": " MICEX指數期貨",
+"descEn": "-MICEX Index Futures",
+"descSc": "-MICEX指数期货",
+"lastTradingDate": "20200618"
+},
+{
+"descTc": "MSCI亞洲除日本淨總回報指數期貨",
+"descEn": "MSCIAC Asia ex Japan Net Total Return Index Futures",
+"descSc": "MSCI亚洲除日本净总回报指数期货",
+"lastTradingDate": "20200619"
+},
+{
+"descTc": "恒生中國企業指數股息累計指數期貨",
+"descEn": "HangSeng China Enterprises Index Total Return Index Futures",
+"descSc": "恒生中国企业指数股息累计指数期货",
+"lastTradingDate": "20200629"
+},
+{
+"descTc": "小型恒生中國企業指數期貨及期權",
+"descEn": "Mini-HangSeng China Enterprises Index Futures and Options",
+"descSc": "小型恒生中国企业指数期货及期权",
+"lastTradingDate": "20200629"
+},
+{
+"descTc": "中華交易服務中國120 指數期貨",
+"descEn": "CESChina 120 Index Futures",
+"descSc": "中华交易服务中国120 指数期货",
+"lastTradingDate": "20200629"
+},
+{
+"descTc": "小型恒生指數期貨及期權",
+"descEn": "Mini-HangSeng Index Futures and Options",
+"descSc": "小型恒生指数期货及期权",
+"lastTradingDate": "20200629"
+},
+{
+"descTc": "恒生中國企業指數期貨及期權(包括自訂條款指數期權)",
+"descEn": "HangSeng China Enterprises Index Futures and Options (Including Flexible Index Options)",
+"descSc": "恒生中国企业指数期货及期权(包括自订条款指数期权)",
+"lastTradingDate": "20200629"
+},
+{
+"descTc": "股票期貨及期權",
+"descEn": "StockFutures and Options",
+"descSc": "股票期货及期权",
+"lastTradingDate": "20200629"
+},
+{
+"descTc": "恒生指數期貨及期權(包括自訂條款指數期權)",
+"descEn": "HangSeng Index Futures and Options (Including Flexible Index Options)",
+"descSc": "恒生指数期货及期权(包括自订条款指数期权)",
+"lastTradingDate": "20200629"
+},
+{
+"descTc": "行業指數期貨",
+"descEn": "SectorIndex Futures",
+"descSc": "行业指数期货",
+"lastTradingDate": "20200629"
+},
+{
+"descTc": "恒生指數股息累計指數期貨",
+"descEn": "HangSeng Index Total Return Index Futures ",
+"descSc": "恒生指数股息累计指数期货",
+"lastTradingDate": "20200629"
+},
+{
+"descTc": "鐵礦石期貨",
+"descEn": "IronOreFutures",
+"descSc": "铁矿石期货",
+"lastTradingDate": "20200630"
+},
+{
+"descTc": "恒指波幅指數期貨",
+"descEn": "HSIVolatility Index Futures",
+"descSc": "恒指波幅指數期货",
+"lastTradingDate": "20200630"
+},
+{
+"descTc": "三個月港元利率期貨",
+"descEn": "Three-MonthHIBOR Futures ",
+"descSc": "三个月港元利率期货",
+"lastTradingDate": "20200713"
+},
+{
+"descTc": "美元及人民幣(香港)倫敦鋁/鋅/銅/鎳/錫/鉛期貨小型合約",
+"descEn": "USD& CNH London Aluminium/Zinc/Copper/Nickel/Tin/LeadMini Futures",
+"descSc": "美元及人民币(香港)伦敦铝/锌/铜/镍/锡/铅期货小型合约",
+"lastTradingDate": "20200713"
+},
+{
+"descTc": "日圓兌人民幣(香港)期貨",
+"descEn": "JPY/CNHFutures",
+"descSc": "日圆兑人民币(香港)期货",
+"lastTradingDate": "20200713"
+},
+{
+"descTc": "歐元兌人民幣(香港)期貨",
+"descEn": "EUR/CNHFutures",
+"descSc": "欧元兑人民币(香港)期货",
+"lastTradingDate": "20200713"
+},
+{
+"descTc": "一個月港元利率期貨",
+"descEn": "One-MonthHIBOR Futures",
+"descSc": "一个月港元利率期货",
+"lastTradingDate": "20200713"
+},
+{
+"descTc": "美元兌人民幣(香港)期貨及期權",
+"descEn": "USD/CNHFuturesand Options",
+"descSc": "美元兑人民币(香港)期货及期权",
+"lastTradingDate": "20200713"
+},
+{
+"descTc": "澳元兌人民幣(香港)期貨",
+"descEn": "AUD/CNHFutures",
+"descSc": "澳元兑人民币(香港)期货",
+"lastTradingDate": "20200713"
+},
+{
+"descTc": "人民幣(香港)兌美元期貨",
+"descEn": "CNH/USDFutures",
+"descSc": "人民币(香港)兑美元期货",
+"lastTradingDate": "20200713"
+},
+{
+"descTc": "美元及人民幣(香港)黃金期貨合約",
+"descEn": "USD& CNH Gold Futures",
+"descSc": "美元及人民币(香港)黄金期货合约",
+"lastTradingDate": "20200720"
+},
+{
+"descTc": "恒指波幅指數期貨",
+"descEn": "HSIVolatility Index Futures",
+"descSc": "恒指波幅指數期货",
+"lastTradingDate": "20200729"
+},
+{
+"descTc": "恒生指數期貨及期權(包括自訂條款指數期權)",
+"descEn": "HangSeng Index Futures and Options (Including Flexible Index Options)",
+"descSc": "恒生指数期货及期权(包括自订条款指数期权)",
+"lastTradingDate": "20200730"
+},
+{
+"descTc": "小型恒生中國企業指數期貨及期權",
+"descEn": "Mini-HangSeng China Enterprises Index Futures and Options",
+"descSc": "小型恒生中国企业指数期货及期权",
+"lastTradingDate": "20200730"
+},
+{
+"descTc": "恒生中國企業指數期貨及期權(包括自訂條款指數期權)",
+"descEn": "HangSeng China Enterprises Index Futures and Options (Including Flexible Index Options)",
+"descSc": "恒生中国企业指数期货及期权(包括自订条款指数期权)",
+"lastTradingDate": "20200730"
+},
+{
+"descTc": "行業指數期貨",
+"descEn": "SectorIndex Futures",
+"descSc": "行业指数期货",
+"lastTradingDate": "20200730"
+},
+{
+"descTc": "恒生指數股息累計指數期貨",
+"descEn": "HangSeng Index Total Return Index Futures ",
+"descSc": "恒生指数股息累计指数期货",
+"lastTradingDate": "20200730"
+},
+{
+"descTc": "小型恒生指數期貨及期權",
+"descEn": "Mini-HangSeng Index Futures and Options",
+"descSc": "小型恒生指数期货及期权",
+"lastTradingDate": "20200730"
+},
+{
+"descTc": "恒生中國企業指數股息累計指數期貨",
+"descEn": "HangSeng China Enterprises Index Total Return Index Futures",
+"descSc": "恒生中国企业指数股息累计指数期货",
+"lastTradingDate": "20200730"
+},
+{
+"descTc": "股票期貨及期權",
+"descEn": "StockFutures and Options",
+"descSc": "股票期货及期权",
+"lastTradingDate": "20200730"
+},
+{
+"descTc": "中華交易服務中國120 指數期貨",
+"descEn": "CESChina 120 Index Futures",
+"descSc": "中华交易服务中国120 指数期货",
+"lastTradingDate": "20200730"
+},
+{
+"descTc": "鐵礦石期貨",
+"descEn": "IronOreFutures",
+"descSc": "铁矿石期货",
+"lastTradingDate": "20200731"
+},
+{
+"descTc": " IBOVESPA期貨",
+"descEn": "-IBOVESPA Futures ",
+"descSc": "-IBOVESPA期货",
+"lastTradingDate": "20200812"
+},
+{
+"descTc": "澳元兌人民幣(香港)期貨",
+"descEn": "AUD/CNHFutures",
+"descSc": "澳元兑人民币(香港)期货",
+"lastTradingDate": "20200817"
+},
+{
+"descTc": "美元及人民幣(香港)黃金期貨合約",
+"descEn": "USD& CNH Gold Futures",
+"descSc": "美元及人民币(香港)黄金期货合约",
+"lastTradingDate": "20200817"
+},
+{
+"descTc": "美元兌人民幣(香港)期貨及期權",
+"descEn": "USD/CNHFuturesand Options",
+"descSc": "美元兑人民币(香港)期货及期权",
+"lastTradingDate": "20200817"
+},
+{
+"descTc": "人民幣(香港)兌美元期貨",
+"descEn": "CNH/USDFutures",
+"descSc": "人民币(香港)兑美元期货",
+"lastTradingDate": "20200817"
+},
+{
+"descTc": "歐元兌人民幣(香港)期貨",
+"descEn": "EUR/CNHFutures",
+"descSc": "欧元兑人民币(香港)期货",
+"lastTradingDate": "20200817"
+},
+{
+"descTc": "美元及人民幣(香港)倫敦鋁/鋅/銅/鎳/錫/鉛期貨小型合約",
+"descEn": "USD& CNH London Aluminium/Zinc/Copper/Nickel/Tin/LeadMini Futures",
+"descSc": "美元及人民币(香港)伦敦铝/锌/铜/镍/锡/铅期货小型合约",
+"lastTradingDate": "20200817"
+},
+{
+"descTc": "三個月港元利率期貨",
+"descEn": "Three-MonthHIBOR Futures ",
+"descSc": "三个月港元利率期货",
+"lastTradingDate": "20200817"
+},
+{
+"descTc": "一個月港元利率期貨",
+"descEn": "One-MonthHIBOR Futures",
+"descSc": "一个月港元利率期货",
+"lastTradingDate": "20200817"
+},
+{
+"descTc": "日圓兌人民幣(香港)期貨",
+"descEn": "JPY/CNHFutures",
+"descSc": "日圆兑人民币(香港)期货",
+"lastTradingDate": "20200817"
+},
+{
+"descTc": "恒生中國企業指數股息累計指數期貨",
+"descEn": "HangSeng China Enterprises Index Total Return Index Futures",
+"descSc": "恒生中国企业指数股息累计指数期货",
+"lastTradingDate": "20200828"
+},
+{
+"descTc": "小型恒生指數期貨及期權",
+"descEn": "Mini-HangSeng Index Futures and Options",
+"descSc": "小型恒生指数期货及期权",
+"lastTradingDate": "20200828"
+},
+{
+"descTc": "中華交易服務中國120 指數期貨",
+"descEn": "CESChina 120 Index Futures",
+"descSc": "中华交易服务中国120 指数期货",
+"lastTradingDate": "20200828"
+},
+{
+"descTc": "恒生指數期貨及期權(包括自訂條款指數期權)",
+"descEn": "HangSeng Index Futures and Options (Including Flexible Index Options)",
+"descSc": "恒生指数期货及期权(包括自订条款指数期权)",
+"lastTradingDate": "20200828"
+},
+{
+"descTc": "恒指波幅指數期貨",
+"descEn": "HSIVolatility Index Futures",
+"descSc": "恒指波幅指數期货",
+"lastTradingDate": "20200828"
+},
+{
+"descTc": "小型恒生中國企業指數期貨及期權",
+"descEn": "Mini-HangSeng China Enterprises Index Futures and Options",
+"descSc": "小型恒生中国企业指数期货及期权",
+"lastTradingDate": "20200828"
+},
+{
+"descTc": "恒生指數股息累計指數期貨",
+"descEn": "HangSeng Index Total Return Index Futures ",
+"descSc": "恒生指数股息累计指数期货",
+"lastTradingDate": "20200828"
+},
+{
+"descTc": "股票期貨及期權",
+"descEn": "StockFutures and Options",
+"descSc": "股票期货及期权",
+"lastTradingDate": "20200828"
+},
+{
+"descTc": "恒生中國企業指數期貨及期權(包括自訂條款指數期權)",
+"descEn": "HangSeng China Enterprises Index Futures and Options (Including Flexible Index Options)",
+"descSc": "恒生中国企业指数期货及期权(包括自订条款指数期权)",
+"lastTradingDate": "20200828"
+},
+{
+"descTc": "行業指數期貨",
+"descEn": "SectorIndex Futures",
+"descSc": "行业指数期货",
+"lastTradingDate": "20200828"
+},
+{
+"descTc": "鐵礦石期貨",
+"descEn": "IronOreFutures",
+"descSc": "铁矿石期货",
+"lastTradingDate": "20200831"
+},
+{
+"descTc": "美元兌人民幣(香港)期貨及期權",
+"descEn": "USD/CNHFuturesand Options",
+"descSc": "美元兑人民币(香港)期货及期权",
+"lastTradingDate": "20200914"
+},
+{
+"descTc": "澳元兌人民幣(香港)期貨",
+"descEn": "AUD/CNHFutures",
+"descSc": "澳元兑人民币(香港)期货",
+"lastTradingDate": "20200914"
+},
+{
+"descTc": "一個月港元利率期貨",
+"descEn": "One-MonthHIBOR Futures",
+"descSc": "一个月港元利率期货",
+"lastTradingDate": "20200914"
+},
+{
+"descTc": "人民幣(香港)兌美元期貨",
+"descEn": "CNH/USDFutures",
+"descSc": "人民币(香港)兑美元期货",
+"lastTradingDate": "20200914"
+},
+{
+"descTc": "三個月港元利率期貨",
+"descEn": "Three-MonthHIBOR Futures ",
+"descSc": "三个月港元利率期货",
+"lastTradingDate": "20200914"
+},
+{
+"descTc": "歐元兌人民幣(香港)期貨",
+"descEn": "EUR/CNHFutures",
+"descSc": "欧元兑人民币(香港)期货",
+"lastTradingDate": "20200914"
+},
+{
+"descTc": "美元及人民幣(香港)倫敦鋁/鋅/銅/鎳/錫/鉛期貨小型合約",
+"descEn": "USD& CNH London Aluminium/Zinc/Copper/Nickel/Tin/LeadMini Futures",
+"descSc": "美元及人民币(香港)伦敦铝/锌/铜/镍/锡/铅期货小型合约",
+"lastTradingDate": "20200914"
+},
+{
+"descTc": "日圓兌人民幣(香港)期貨",
+"descEn": "JPY/CNHFutures",
+"descSc": "日圆兑人民币(香港)期货",
+"lastTradingDate": "20200914"
+},
+{
+"descTc": " FTSE/JSE Top40期貨",
+"descEn": "-FTSE/JSE Top40 Futures",
+"descSc": "-FTSE/JSE Top40期货",
+"lastTradingDate": "20200917"
+},
+{
+"descTc": " MICEX指數期貨",
+"descEn": "-MICEX Index Futures",
+"descSc": "-MICEX指数期货",
+"lastTradingDate": "20200917"
+},
+{
+"descTc": "MSCI亞洲除日本淨總回報指數期貨",
+"descEn": "MSCIAC Asia ex Japan Net Total Return Index Futures",
+"descSc": "MSCI亚洲除日本净总回报指数期货",
+"lastTradingDate": "20200918"
+},
+{
+"descTc": "美元及人民幣(香港)黃金期貨合約",
+"descEn": "USD& CNH Gold Futures",
+"descSc": "美元及人民币(香港)黄金期货合约",
+"lastTradingDate": "20200921"
+},
+{
+"descTc": "恒生指數股息累計指數期貨",
+"descEn": "HangSeng Index Total Return Index Futures ",
+"descSc": "恒生指数股息累计指数期货",
+"lastTradingDate": "20200929"
+},
+{
+"descTc": "恒生中國企業指數期貨及期權(包括自訂條款指數期權)",
+"descEn": "HangSeng China Enterprises Index Futures and Options (Including Flexible Index Options)",
+"descSc": "恒生中国企业指数期货及期权(包括自订条款指数期权)",
+"lastTradingDate": "20200929"
+},
+{
+"descTc": "小型恒生中國企業指數期貨及期權",
+"descEn": "Mini-HangSeng China Enterprises Index Futures and Options",
+"descSc": "小型恒生中国企业指数期货及期权",
+"lastTradingDate": "20200929"
+},
+{
+"descTc": "恒生中國企業指數股息累計指數期貨",
+"descEn": "HangSeng China Enterprises Index Total Return Index Futures",
+"descSc": "恒生中国企业指数股息累计指数期货",
+"lastTradingDate": "20200929"
+},
+{
+"descTc": "中華交易服務中國120 指數期貨",
+"descEn": "CESChina 120 Index Futures",
+"descSc": "中华交易服务中国120 指数期货",
+"lastTradingDate": "20200929"
+},
+{
+"descTc": "股票期貨及期權",
+"descEn": "StockFutures and Options",
+"descSc": "股票期货及期权",
+"lastTradingDate": "20200929"
+},
+{
+"descTc": "恒生指數期貨及期權(包括自訂條款指數期權)",
+"descEn": "HangSeng Index Futures and Options (Including Flexible Index Options)",
+"descSc": "恒生指数期货及期权(包括自订条款指数期权)",
+"lastTradingDate": "20200929"
+},
+{
+"descTc": "恒指波幅指數期貨",
+"descEn": "HSIVolatility Index Futures",
+"descSc": "恒指波幅指數期货",
+"lastTradingDate": "20200929"
+},
+{
+"descTc": "行業指數期貨",
+"descEn": "SectorIndex Futures",
+"descSc": "行业指数期货",
+"lastTradingDate": "20200929"
+},
+{
+"descTc": "小型恒生指數期貨及期權",
+"descEn": "Mini-HangSeng Index Futures and Options",
+"descSc": "小型恒生指数期货及期权",
+"lastTradingDate": "20200929"
+},
+{
+"descTc": "鐵礦石期貨",
+"descEn": "IronOreFutures",
+"descSc": "铁矿石期货",
+"lastTradingDate": "20200930"
+},
+{
+"descTc": " IBOVESPA期貨",
+"descEn": "-IBOVESPA Futures ",
+"descSc": "-IBOVESPA期货",
+"lastTradingDate": "20201014"
+},
+{
+"descTc": "三個月港元利率期貨",
+"descEn": "Three-MonthHIBOR Futures ",
+"descSc": "三个月港元利率期货",
+"lastTradingDate": "20201019"
+},
+{
+"descTc": "美元兌人民幣(香港)期貨及期權",
+"descEn": "USD/CNHFuturesand Options",
+"descSc": "美元兑人民币(香港)期货及期权",
+"lastTradingDate": "20201019"
+},
+{
+"descTc": "歐元兌人民幣(香港)期貨",
+"descEn": "EUR/CNHFutures",
+"descSc": "欧元兑人民币(香港)期货",
+"lastTradingDate": "20201019"
+},
+{
+"descTc": "日圓兌人民幣(香港)期貨",
+"descEn": "JPY/CNHFutures",
+"descSc": "日圆兑人民币(香港)期货",
+"lastTradingDate": "20201019"
+},
+{
+"descTc": "人民幣(香港)兌美元期貨",
+"descEn": "CNH/USDFutures",
+"descSc": "人民币(香港)兑美元期货",
+"lastTradingDate": "20201019"
+},
+{
+"descTc": "美元及人民幣(香港)倫敦鋁/鋅/銅/鎳/錫/鉛期貨小型合約",
+"descEn": "USD& CNH London Aluminium/Zinc/Copper/Nickel/Tin/LeadMini Futures",
+"descSc": "美元及人民币(香港)伦敦铝/锌/铜/镍/锡/铅期货小型合约",
+"lastTradingDate": "20201019"
+},
+{
+"descTc": "一個月港元利率期貨",
+"descEn": "One-MonthHIBOR Futures",
+"descSc": "一个月港元利率期货",
+"lastTradingDate": "20201019"
+},
+{
+"descTc": "澳元兌人民幣(香港)期貨",
+"descEn": "AUD/CNHFutures",
+"descSc": "澳元兑人民币(香港)期货",
+"lastTradingDate": "20201019"
+},
+{
+"descTc": "美元及人民幣(香港)黃金期貨合約",
+"descEn": "USD& CNH Gold Futures",
+"descSc": "美元及人民币(香港)黄金期货合约",
+"lastTradingDate": "20201019"
+},
+{
+"descTc": "恒指波幅指數期貨",
+"descEn": "HSIVolatility Index Futures",
+"descSc": "恒指波幅指數期货",
+"lastTradingDate": "20201028"
+},
+{
+"descTc": "小型恒生中國企業指數期貨及期權",
+"descEn": "Mini-HangSeng China Enterprises Index Futures and Options",
+"descSc": "小型恒生中国企业指数期货及期权",
+"lastTradingDate": "20201029"
+},
+{
+"descTc": "中華交易服務中國120 指數期貨",
+"descEn": "CESChina 120 Index Futures",
+"descSc": "中华交易服务中国120 指数期货",
+"lastTradingDate": "20201029"
+},
+{
+"descTc": "恒生指數期貨及期權(包括自訂條款指數期權)",
+"descEn": "HangSeng Index Futures and Options (Including Flexible Index Options)",
+"descSc": "恒生指数期货及期权(包括自订条款指数期权)",
+"lastTradingDate": "20201029"
+},
+{
+"descTc": "股票期貨及期權",
+"descEn": "StockFutures and Options",
+"descSc": "股票期货及期权",
+"lastTradingDate": "20201029"
+},
+{
+"descTc": "恒生中國企業指數期貨及期權(包括自訂條款指數期權)",
+"descEn": "HangSeng China Enterprises Index Futures and Options (Including Flexible Index Options)",
+"descSc": "恒生中国企业指数期货及期权(包括自订条款指数期权)",
+"lastTradingDate": "20201029"
+},
+{
+"descTc": "小型恒生指數期貨及期權",
+"descEn": "Mini-HangSeng Index Futures and Options",
+"descSc": "小型恒生指数期货及期权",
+"lastTradingDate": "20201029"
+},
+{
+"descTc": "恒生指數股息累計指數期貨",
+"descEn": "HangSeng Index Total Return Index Futures ",
+"descSc": "恒生指数股息累计指数期货",
+"lastTradingDate": "20201029"
+},
+{
+"descTc": "恒生中國企業指數股息累計指數期貨",
+"descEn": "HangSeng China Enterprises Index Total Return Index Futures",
+"descSc": "恒生中国企业指数股息累计指数期货",
+"lastTradingDate": "20201029"
+},
+{
+"descTc": "行業指數期貨",
+"descEn": "SectorIndex Futures",
+"descSc": "行业指数期货",
+"lastTradingDate": "20201029"
+},
+{
+"descTc": "鐵礦石期貨",
+"descEn": "IronOreFutures",
+"descSc": "铁矿石期货",
+"lastTradingDate": "20201030"
+},
+{
+"descTc": "一個月港元利率期貨",
+"descEn": "One-MonthHIBOR Futures",
+"descSc": "一个月港元利率期货",
+"lastTradingDate": "20201116"
+},
+{
+"descTc": "美元兌人民幣(香港)期貨及期權",
+"descEn": "USD/CNHFuturesand Options",
+"descSc": "美元兑人民币(香港)期货及期权",
+"lastTradingDate": "20201116"
+},
+{
+"descTc": "美元及人民幣(香港)黃金期貨合約",
+"descEn": "USD& CNH Gold Futures",
+"descSc": "美元及人民币(香港)黄金期货合约",
+"lastTradingDate": "20201116"
+},
+{
+"descTc": "美元及人民幣(香港)倫敦鋁/鋅/銅/鎳/錫/鉛期貨小型合約",
+"descEn": "USD& CNH London Aluminium/Zinc/Copper/Nickel/Tin/LeadMini Futures",
+"descSc": "美元及人民币(香港)伦敦铝/锌/铜/镍/锡/铅期货小型合约",
+"lastTradingDate": "20201116"
+},
+{
+"descTc": "人民幣(香港)兌美元期貨",
+"descEn": "CNH/USDFutures",
+"descSc": "人民币(香港)兑美元期货",
+"lastTradingDate": "20201116"
+},
+{
+"descTc": "歐元兌人民幣(香港)期貨",
+"descEn": "EUR/CNHFutures",
+"descSc": "欧元兑人民币(香港)期货",
+"lastTradingDate": "20201116"
+},
+{
+"descTc": "日圓兌人民幣(香港)期貨",
+"descEn": "JPY/CNHFutures",
+"descSc": "日圆兑人民币(香港)期货",
+"lastTradingDate": "20201116"
+},
+{
+"descTc": "三個月港元利率期貨",
+"descEn": "Three-MonthHIBOR Futures ",
+"descSc": "三个月港元利率期货",
+"lastTradingDate": "20201116"
+},
+{
+"descTc": "澳元兌人民幣(香港)期貨",
+"descEn": "AUD/CNHFutures",
+"descSc": "澳元兑人民币(香港)期货",
+"lastTradingDate": "20201116"
+},
+{
+"descTc": "恒生指數股息累計指數期貨",
+"descEn": "HangSeng Index Total Return Index Futures ",
+"descSc": "恒生指数股息累计指数期货",
+"lastTradingDate": "20201127"
+},
+{
+"descTc": "恒生中國企業指數期貨及期權(包括自訂條款指數期權)",
+"descEn": "HangSeng China Enterprises Index Futures and Options (Including Flexible Index Options)",
+"descSc": "恒生中国企业指数期货及期权(包括自订条款指数期权)",
+"lastTradingDate": "20201127"
+},
+{
+"descTc": "恒生指數期貨及期權(包括自訂條款指數期權)",
+"descEn": "HangSeng Index Futures and Options (Including Flexible Index Options)",
+"descSc": "恒生指数期货及期权(包括自订条款指数期权)",
+"lastTradingDate": "20201127"
+},
+{
+"descTc": "股票期貨及期權",
+"descEn": "StockFutures and Options",
+"descSc": "股票期货及期权",
+"lastTradingDate": "20201127"
+},
+{
+"descTc": "中華交易服務中國120 指數期貨",
+"descEn": "CESChina 120 Index Futures",
+"descSc": "中华交易服务中国120 指数期货",
+"lastTradingDate": "20201127"
+},
+{
+"descTc": "小型恒生中國企業指數期貨及期權",
+"descEn": "Mini-HangSeng China Enterprises Index Futures and Options",
+"descSc": "小型恒生中国企业指数期货及期权",
+"lastTradingDate": "20201127"
+},
+{
+"descTc": "小型恒生指數期貨及期權",
+"descEn": "Mini-HangSeng Index Futures and Options",
+"descSc": "小型恒生指数期货及期权",
+"lastTradingDate": "20201127"
+},
+{
+"descTc": "恒生中國企業指數股息累計指數期貨",
+"descEn": "HangSeng China Enterprises Index Total Return Index Futures",
+"descSc": "恒生中国企业指数股息累计指数期货",
+"lastTradingDate": "20201127"
+},
+{
+"descTc": "行業指數期貨",
+"descEn": "SectorIndex Futures",
+"descSc": "行业指数期货",
+"lastTradingDate": "20201127"
+},
+{
+"descTc": "恒指波幅指數期貨",
+"descEn": "HSIVolatility Index Futures",
+"descSc": "恒指波幅指數期货",
+"lastTradingDate": "20201130"
+},
+{
+"descTc": "鐵礦石期貨",
+"descEn": "IronOreFutures",
+"descSc": "铁矿石期货",
+"lastTradingDate": "20201130"
+},
+{
+"descTc": "日圓兌人民幣(香港)期貨",
+"descEn": "JPY/CNHFutures",
+"descSc": "日圆兑人民币(香港)期货",
+"lastTradingDate": "20201214"
+},
+{
+"descTc": "歐元兌人民幣(香港)期貨",
+"descEn": "EUR/CNHFutures",
+"descSc": "欧元兑人民币(香港)期货",
+"lastTradingDate": "20201214"
+},
+{
+"descTc": "美元兌人民幣(香港)期貨及期權",
+"descEn": "USD/CNHFuturesand Options",
+"descSc": "美元兑人民币(香港)期货及期权",
+"lastTradingDate": "20201214"
+},
+{
+"descTc": "三個月港元利率期貨",
+"descEn": "Three-MonthHIBOR Futures ",
+"descSc": "三个月港元利率期货",
+"lastTradingDate": "20201214"
+},
+{
+"descTc": "人民幣(香港)兌美元期貨",
+"descEn": "CNH/USDFutures",
+"descSc": "人民币(香港)兑美元期货",
+"lastTradingDate": "20201214"
+},
+{
+"descTc": "澳元兌人民幣(香港)期貨",
+"descEn": "AUD/CNHFutures",
+"descSc": "澳元兑人民币(香港)期货",
+"lastTradingDate": "20201214"
+},
+{
+"descTc": "一個月港元利率期貨",
+"descEn": "One-MonthHIBOR Futures",
+"descSc": "一个月港元利率期货",
+"lastTradingDate": "20201214"
+},
+{
+"descTc": "美元及人民幣(香港)倫敦鋁/鋅/銅/鎳/錫/鉛期貨小型合約",
+"descEn": "USD& CNH London Aluminium/Zinc/Copper/Nickel/Tin/LeadMini Futures",
+"descSc": "美元及人民币(香港)伦敦铝/锌/铜/镍/锡/铅期货小型合约",
+"lastTradingDate": "20201214"
+},
+{
+"descTc": " IBOVESPA期貨",
+"descEn": "-IBOVESPA Futures ",
+"descSc": "-IBOVESPA期货",
+"lastTradingDate": "20201216"
+},
+{
+"descTc": " MICEX指數期貨",
+"descEn": "-MICEX Index Futures",
+"descSc": "-MICEX指数期货",
+"lastTradingDate": "20201217"
+},
+{
+"descTc": " FTSE/JSE Top40期貨",
+"descEn": "-FTSE/JSE Top40 Futures",
+"descSc": "-FTSE/JSE Top40期货",
+"lastTradingDate": "20201217"
+},
+{
+"descTc": "MSCI亞洲除日本淨總回報指數期貨",
+"descEn": "MSCIAC Asia ex Japan Net Total Return Index Futures",
+"descSc": "MSCI亚洲除日本净总回报指数期货",
+"lastTradingDate": "20201218"
+},
+{
+"descTc": "美元及人民幣(香港)黃金期貨合約",
+"descEn": "USD& CNH Gold Futures",
+"descSc": "美元及人民币(香港)黄金期货合约",
+"lastTradingDate": "20201221"
+},
+{
+"descTc": "恒指波幅指數期貨",
+"descEn": "HSIVolatility Index Futures",
+"descSc": "恒指波幅指數期货",
+"lastTradingDate": "20201229"
+},
+{
+"descTc": "行業指數期貨",
+"descEn": "SectorIndex Futures",
+"descSc": "行业指数期货",
+"lastTradingDate": "20201230"
+},
+{
+"descTc": "股票期貨及期權",
+"descEn": "StockFutures and Options",
+"descSc": "股票期货及期权",
+"lastTradingDate": "20201230"
+},
+{
+"descTc": "恒生指數期貨及期權(包括自訂條款指數期權)",
+"descEn": "HangSeng Index Futures and Options (Including Flexible Index Options)",
+"descSc": "恒生指数期货及期权(包括自订条款指数期权)",
+"lastTradingDate": "20201230"
+},
+{
+"descTc": "小型恒生指數期貨及期權",
+"descEn": "Mini-HangSeng Index Futures and Options",
+"descSc": "小型恒生指数期货及期权",
+"lastTradingDate": "20201230"
+},
+{
+"descTc": "恒生中國企業指數期貨及期權(包括自訂條款指數期權)",
+"descEn": "HangSeng China Enterprises Index Futures and Options (Including Flexible Index Options)",
+"descSc": "恒生中国企业指数期货及期权(包括自订条款指数期权)",
+"lastTradingDate": "20201230"
+},
+{
+"descTc": "中華交易服務中國120 指數期貨",
+"descEn": "CESChina 120 Index Futures",
+"descSc": "中华交易服务中国120 指数期货",
+"lastTradingDate": "20201230"
+},
+{
+"descTc": "小型恒生中國企業指數期貨及期權",
+"descEn": "Mini-HangSeng China Enterprises Index Futures and Options",
+"descSc": "小型恒生中国企业指数期货及期权",
+"lastTradingDate": "20201230"
+},
+{
+"descTc": "恒生指數股息累計指數期貨",
+"descEn": "HangSeng Index Total Return Index Futures ",
+"descSc": "恒生指数股息累计指数期货",
+"lastTradingDate": "20201230"
+},
+{
+"descTc": "恒生中國企業指數股息累計指數期貨",
+"descEn": "HangSeng China Enterprises Index Total Return Index Futures",
+"descSc": "恒生中国企业指数股息累计指数期货",
+"lastTradingDate": "20201230"
+},
+{
+"descTc": "鐵礦石期貨",
+"descEn": "IronOreFutures",
+"descSc": "铁矿石期货",
+"lastTradingDate": "20201231"
+}
+]
